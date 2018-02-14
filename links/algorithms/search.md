@@ -10,7 +10,11 @@
 
 4. [Call_to_your_teacher(解法2)](https://github.com/faxinwang/OJ_NowCoder/blob/master/%E7%AB%9E%E8%B5%9B/2018%E5%B9%B4%E5%85%A8%E5%9B%BD%E5%A4%9A%E6%A0%A1%E7%AE%97%E6%B3%95%E5%AF%92%E5%81%87%E8%AE%AD%E7%BB%83%E8%90%A5%E7%BB%83%E4%B9%A0%E8%B5%9B/%E7%AC%AC%E5%9B%9B%E5%9C%BA/F.Call_to_your_teacher2.cpp)`NowCoder`
 
+5. [1003. Emergency](https://github.com/faxinwang/OJ_PAT/blob/master/2%20advance/1-20/1003.%20Emergency%20(25).cpp)`PAT` `所有最短路径`
 
+6. [1013. Battle Over Cities](https://github.com/faxinwang/OJ_PAT/blob/master/2%20advance/1-20/1013.%20Battle%20Over%20Cities%20(25).cpp)`PAT` `统计连通分量`
+
+7. [1018. Public Bike Management](https://github.com/faxinwang/OJ_PAT/blob/master/2%20advance/1-20/1018.%20Public%20Bike%20Management%20(30).cpp)`PAT` `最优路径`
 
 ## BFS
 
@@ -34,6 +38,12 @@
 
 5. [教室管理](https://github.com/faxinwang/2017_summer_train/blob/master/2.%E4%BA%8C%E5%88%86-%E6%95%99%E5%AE%A4%E7%AE%A1%E7%90%86%20(10%E5%88%86).cpp)`差分数组`
 
+6. [1010. Radix](https://github.com/faxinwang/OJ_PAT/blob/master/2%20advance/1-20/1010.%20Radix%20(25).cpp)`PAT`
+
 ## others
 
 1. [二维数组中的查找](https://github.com/faxinwang/OJ_NowCoder/blob/master/%E5%89%91%E6%8C%87offer%E7%BC%96%E7%A8%8B%E9%A2%98/1.%E4%BA%8C%E7%BB%B4%E6%95%B0%E7%BB%84%E4%B8%AD%E7%9A%84%E6%9F%A5%E6%89%BE.cpp)`NowCoder` `二维查找`
+
+2. [1019. General Palindromic Number](https://github.com/faxinwang/OJ_PAT/blob/master/2%20advance/1-20/1019.%20General%20Palindromic%20Number%20(20).cpp)`PAT` `回文数字`
+
+3. [1022. Digital Library](https://github.com/faxinwang/OJ_PAT/blob/master/2%20advance/21%20-%2040/1022.%20Digital%20Library%20(30).cpp)`PAT` `书目检索`

@@ -14,6 +14,16 @@
 
 6. [求交集](https://github.com/faxinwang/OJ_NowCoder/blob/master/%E7%AB%9E%E8%B5%9B/2018%E5%B9%B4%E5%85%A8%E5%9B%BD%E5%A4%9A%E6%A0%A1%E7%AE%97%E6%B3%95%E5%AF%92%E5%81%87%E8%AE%AD%E7%BB%83%E8%90%A5%E7%BB%83%E4%B9%A0%E8%B5%9B/%E7%AC%AC%E5%9B%9B%E5%9C%BA/C.%E6%B1%82%E4%BA%A4%E9%9B%86.cpp)`序列合并`
 
+7. [1002. A+B for Polynomials](https://github.com/faxinwang/OJ_PAT/blob/master/2%20advance/1-20/1002.%20A%2BB%20for%20Polynomials%20(25).cpp)`PAT` `多项式加法`
+
+8. [1009. Product of Polynomials (25)](https://github.com/faxinwang/OJ_PAT/blob/master/2%20advance/1-20/1009.%20Product%20of%20Polynomials%20(25).cpp)`PAT` `多项式乘法`
+
+9. [1007. Maximum Subsequence Sum](https://github.com/faxinwang/OJ_PAT/blob/master/2%20advance/1-20/1007.%20Maximum%20Subsequence%20Sum%20(25).cpp)`PAT` `最大子段和`
+
+10. [集合相似度](https://github.com/faxinwang/OJ_PAT/blob/master/C4_GPLT/L2_5.cpp)`PAT` `集合交`
+
+11. [1029. Median](https://github.com/faxinwang/OJ_PAT/blob/master/2%20advance/21%20-%2040/1029.%20Median%20(25).cpp)`PAT` `序列合并求中位数`
+
 ## 栈
 
 1. [2.括号匹配](https://github.com/faxinwang/OJ_NYOJ/blob/master/data_structure/2.%E6%8B%AC%E5%8F%B7%E5%8C%B9%E9%85%8D.cpp)`NYOJ`
@@ -36,7 +46,7 @@
 
 2. [801.Haffman编码](https://github.com/faxinwang/OJ_NYOJ/blob/master/greedy/801.Haffman%E7%BC%96%E7%A0%81.cpp)`NYOJ` `哈夫曼树`
 
-3. [重建二叉树](https://github.com/faxinwang/OJ_NowCoder/blob/master/%E5%89%91%E6%8C%87offer%E7%BC%96%E7%A8%8B%E9%A2%98/4.%E9%87%8D%E5%BB%BA%E4%BA%8C%E5%8F%89%E6%A0%91.cpp)`NowCoder`
+3. [重建二叉树](https://github.com/faxinwang/OJ_NowCoder/blob/master/%E5%89%91%E6%8C%87offer%E7%BC%96%E7%A8%8B%E9%A2%98/4.%E9%87%8D%E5%BB%BA%E4%BA%8C%E5%8F%89%E6%A0%91.cpp)`NowCoder` `前序中序重建二叉树`
 
 4. [树的子结构](https://github.com/faxinwang/OJ_NowCoder/blob/master/%E5%89%91%E6%8C%87offer%E7%BC%96%E7%A8%8B%E9%A2%98/17.%E6%A0%91%E7%9A%84%E5%AD%90%E7%BB%93%E6%9E%84.cpp)`NowCoder`
 
@@ -54,6 +64,17 @@
 
 11. [贴海报](https://github.com/faxinwang/2017_summer_train/blob/master/19.%E7%BA%BF%E6%AE%B5%E6%A0%91-%E8%B4%B4%E6%B5%B7%E6%8A%A5.cpp)`POJ` `线段树`
 
+12. [1004. Counting Leaves](https://github.com/faxinwang/OJ_PAT/blob/master/2%20advance/1-20/1004.%20Counting%20Leaves%20(30).cpp)`PAT` `树`
+
+13. [1020. Tree Traversals](https://github.com/faxinwang/OJ_PAT/blob/master/2%20advance/1-20/1020.%20Tree%20Traversals%20(25).cpp)`PAT` `中序后序重建二叉树`
+
+14. [玩转二叉树](https://github.com/faxinwang/OJ_PAT/blob/master/C4_GPLT/L2_11.cpp)`二叉树镜像`
+
+15. [这是二叉搜索树吗](https://github.com/faxinwang/OJ_PAT/blob/master/C4_GPLT/L2_4.cpp)`PAT` `BST`
+
+16. [堆栈](https://github.com/faxinwang/OJ_PAT/blob/master/C4_GPLT/L3_2.cpp)`PAT` `取中值`
+
+17. [1021. Deepest Root](https://github.com/faxinwang/OJ_PAT/blob/master/2%20advance/21%20-%2040/1021.%20Deepest%20Root%20(25).cpp)`PAT` `最大深度`
 
 ## 并查集
 
@@ -69,6 +90,9 @@
 
 2. [任务安排](https://github.com/faxinwang/2017_summer_train/blob/master/16.%E4%BA%8C%E5%88%86%E5%9B%BE-%E4%BB%BB%E5%8A%A1%E5%AE%89%E6%8E%92.cpp)`HDU` `二分图`
 
+3. [排座位](https://github.com/faxinwang/OJ_PAT/blob/master/C4_GPLT/L2_10.cpp)`PAT` `DFS`
+
+4. [社交集群](https://github.com/faxinwang/OJ_PAT/blob/master/C4_GPLT/L3_3.cpp)`PAT` `DFS`
 
 ## 矩阵
 
@@ -79,3 +103,7 @@
 2. [字符串编码](https://github.com/faxinwang/OJ_NowCoder/blob/master/%E5%85%AC%E5%8F%B8%E7%9C%9F%E9%A2%98/2017%E7%BD%91%E6%98%93%E6%B8%B8%E6%88%8F%E9%9B%B7%E7%81%AB%E7%9B%98%E5%8F%A4%E5%AE%9E%E4%B9%A0%E7%94%9F%E6%8B%9B%E8%81%98%E7%AC%94%E8%AF%95%E7%9C%9F%E9%A2%98/1%E5%AD%97%E7%AC%A6%E4%B8%B2%E7%BC%96%E7%A0%81.cpp)`NowCoder`
 
 3. [替换空格](https://github.com/faxinwang/OJ_NowCoder/blob/master/%E5%89%91%E6%8C%87offer%E7%BC%96%E7%A8%8B%E9%A2%98/2.%E6%9B%BF%E6%8D%A2%E7%A9%BA%E6%A0%BC.cpp)`NowCoder`
+
+4. [1005. Spell It Right](https://github.com/faxinwang/OJ_PAT/blob/master/2%20advance/1-20/1005.%20Spell%20It%20Right%20(20).cpp)`PAT`
+
+5. [最长对称子串](https://github.com/faxinwang/OJ_PAT/blob/master/C4_GPLT/L2_8.cpp)`PAT` `回文串`
