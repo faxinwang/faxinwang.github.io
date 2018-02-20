@@ -27,6 +27,10 @@
   * [队列适配器](https://github.com/faxinwang/DataStructure/blob/master/cpp/Queue/Queue.hpp)
   * [循环队列](https://github.com/faxinwang/DataStructure/blob/master/cpp/Queue/CircularQueue.hpp)
 
+* 矩阵
+  * [矩阵](https://github.com/faxinwang/DataStructure/blob/master/cpp/Matrixs/Matrix.hpp)
+  * [稀疏矩阵](https://github.com/faxinwang/DataStructure/blob/master/cpp/Matrixs/MatrixTriple.hpp)
+
 * 树
   * [二叉树]
   * [二叉平衡树]
