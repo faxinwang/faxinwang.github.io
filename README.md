@@ -1,4 +1,4 @@
-# 王发新的个人博客
+# [王发新的个人博客](https://faxinwang.github.io/)
 
 ## 算法
 
@@ -88,17 +88,20 @@
 
 >小玩意儿，Make Life Better
 
-* 聊天程序[MyQQ](https://github.com/faxinwang/MyQQ)
+* 聊天程序: [MyQQ](https://github.com/faxinwang/MyQQ)
 <br>
 
-* 锁屏程序[WFXScreenLocker](https://github.com/faxinwang/WFXScreenLocker)
+* 锁屏程序: [WFXScreenLocker](https://github.com/faxinwang/WFXScreenLocker)
 <br>
 
-* 签到助手[RegisterHelper](https://github.com/faxinwang/RegisterHelper)
+* 签到助手: [RegisterHelper](https://github.com/faxinwang/RegisterHelper)
 <br>
 
-* 小游戏2048[My2048](https://github.com/faxinwang/My2048)
+* 小游戏2048: [My2048](https://github.com/faxinwang/My2048)
 <br>
 
-* 小游戏连连看[LLK](https://github.com/faxinwang/LLK)
+* 小游戏连连看: [LLK](https://github.com/faxinwang/LLK)
+<br>
+
+* 遗传算法解TSP: [TSPGA](https://github.com/faxinwang/TSPGA)
 <br>
