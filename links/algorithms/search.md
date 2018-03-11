@@ -10,11 +10,6 @@
 
 4. [Call_to_your_teacher(解法2)](https://github.com/faxinwang/OJ_NowCoder/blob/master/%E7%AB%9E%E8%B5%9B/2018%E5%B9%B4%E5%85%A8%E5%9B%BD%E5%A4%9A%E6%A0%A1%E7%AE%97%E6%B3%95%E5%AF%92%E5%81%87%E8%AE%AD%E7%BB%83%E8%90%A5%E7%BB%83%E4%B9%A0%E8%B5%9B/%E7%AC%AC%E5%9B%9B%E5%9C%BA/F.Call_to_your_teacher2.cpp)`NowCoder`
 
-5. [1003. Emergency](https://github.com/faxinwang/OJ_PAT/blob/master/2%20advance/1-20/1003.%20Emergency%20(25).cpp)`PAT` `所有最短路径`
-
-6. [1013. Battle Over Cities](https://github.com/faxinwang/OJ_PAT/blob/master/2%20advance/1-20/1013.%20Battle%20Over%20Cities%20(25).cpp)`PAT` `统计连通分量`
-
-7. [1018. Public Bike Management](https://github.com/faxinwang/OJ_PAT/blob/master/2%20advance/1-20/1018.%20Public%20Bike%20Management%20(30).cpp)`PAT` `最优路径`
 
 ## BFS
 

@@ -1,5 +1,7 @@
 # [王发新的个人博客](https://faxinwang.github.io/)
 
+[github](https://github.com/faxinwang)
+
 ## 算法
 
 * [搜索](links/algorithms/search.html)

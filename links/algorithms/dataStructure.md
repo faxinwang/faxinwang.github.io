@@ -56,7 +56,7 @@
 
 7. [判断一个序列是否是某个BST的后续遍历序列](https://github.com/faxinwang/OJ_NowCoder/blob/master/%E5%89%91%E6%8C%87offer%E7%BC%96%E7%A8%8B%E9%A2%98/23.%E5%88%A4%E6%96%AD%E4%B8%80%E4%B8%AA%E5%BA%8F%E5%88%97%E6%98%AF%E5%90%A6%E6%98%AF%E6%9F%90%E4%B8%AABST%E7%9A%84%E5%90%8E%E7%BB%AD%E9%81%8D%E5%8E%86%E5%BA%8F%E5%88%97.cpp)`NowCoder`
 
-8. [道路建设](https://github.com/faxinwang/OJ_NowCoder/blob/master/%E7%AB%9E%E8%B5%9B/2018%E5%B9%B4%E5%85%A8%E5%9B%BD%E5%A4%9A%E6%A0%A1%E7%AE%97%E6%B3%95%E5%AF%92%E5%81%87%E8%AE%AD%E7%BB%83%E8%90%A5%E7%BB%83%E4%B9%A0%E8%B5%9B/%E7%AC%AC%E5%9B%9B%E5%9C%BA/B.%E9%81%93%E8%B7%AF%E5%BB%BA%E8%AE%BE.cpp)`NowCoder` `最小生成树`
+8. [道路建设](https://github.com/faxinwang/OJ_NowCoder/blob/master/%E7%AB%9E%E8%B5%9B/2018%E5%B9%B4%E5%85%A8%E5%9B%BD%E5%A4%9A%E6%A0%A1%E7%AE%97%E6%B3%95%E5%AF%92%E5%81%87%E8%AE%AD%E7%BB%83%E8%90%A5%E7%BB%83%E4%B9%A0%E8%B5%9B/%E7%AC%AC%E5%9B%9B%E5%9C%BA/B.%E9%81%93%E8%B7%AF%E5%BB%BA%E8%AE%BE.cpp)`NowCoder` `最小生成树` `kurskal`
 
 9. [树的统计](https://github.com/faxinwang/2017_summer_train/blob/master/17.%E6%A0%91%E5%BD%A2%E6%95%B0%E7%BB%84-%E6%A0%91%E7%9A%84%E7%BB%9F%E8%AE%A1.cpp)`POJ` `树形数组`
 
@@ -76,6 +76,14 @@
 
 17. [1021. Deepest Root](https://github.com/faxinwang/OJ_PAT/blob/master/2%20advance/21%20-%2040/1021.%20Deepest%20Root%20(25).cpp)`PAT` `最大深度`
 
+18. [1014_Trie树](https://github.com/faxinwang/HihoCoder/blob/master/dataStructure/1014_Trie%E6%A0%91.cpp)`HihoCoder` `Trie树`
+
+19. [1062.最近公共祖先一](https://github.com/faxinwang/HihoCoder/blob/master/dataStructure/1062.%E6%9C%80%E8%BF%91%E5%85%AC%E5%85%B1%E7%A5%96%E5%85%88%E4%B8%80.cpp) `HihoCoder`
+
+20. [1067.最近公共祖先二](https://github.com/faxinwang/HihoCoder/blob/master/dataStructure/1067.%E6%9C%80%E8%BF%91%E5%85%AC%E5%85%B1%E7%A5%96%E5%85%88%E4%BA%8C.cpp)`HihoCoder` `并查集路径压缩` `DFS`
+
+21. [1069.最近公共祖先三](https://github.com/faxinwang/HihoCoder/blob/master/dataStructure/1069.%E6%9C%80%E8%BF%91%E5%85%AC%E5%85%B1%E7%A5%96%E5%85%88%E4%B8%89.cpp)`HihoCoder` `RMQ-ST` `DFS` `树转数组`
+
 ## 并查集
 
 1. [臭虫也疯狂(解法1)](https://github.com/faxinwang/2017_summer_train/blob/master/5.%E5%B9%B6%E6%9F%A5%E9%9B%86-%E8%87%AD%E8%99%AB%E4%B9%9F%E7%96%AF%E7%8B%82.cpp)`POJ`
@@ -86,15 +94,19 @@
 
 ## 图
 
-1. [安排房间](https://github.com/faxinwang/2017_summer_train/blob/master/15.%E4%BA%8C%E5%88%86%E5%9B%BE-%E5%AE%89%E6%8E%92%E6%88%BF%E9%97%B4.cpp)`HDU` `二分图`
+1. [1003. Emergency](https://github.com/faxinwang/OJ_PAT/blob/master/2%20advance/1-20/1003.%20Emergency%20(25).cpp)`PAT` `所有最短路径`
 
-2. [任务安排](https://github.com/faxinwang/2017_summer_train/blob/master/16.%E4%BA%8C%E5%88%86%E5%9B%BE-%E4%BB%BB%E5%8A%A1%E5%AE%89%E6%8E%92.cpp)`HDU` `二分图`
+2. [1013. Battle Over Cities](https://github.com/faxinwang/OJ_PAT/blob/master/2%20advance/1-20/1013.%20Battle%20Over%20Cities%20(25).cpp)`PAT` `统计连通分量`
 
-3. [排座位](https://github.com/faxinwang/OJ_PAT/blob/master/C4_GPLT/L2_10.cpp)`PAT` `DFS`
+3. [1018. Public Bike Management](https://github.com/faxinwang/OJ_PAT/blob/master/2%20advance/1-20/1018.%20Public%20Bike%20Management%20(30).cpp)`PAT` `最优路径`
 
-4. [社交集群](https://github.com/faxinwang/OJ_PAT/blob/master/C4_GPLT/L3_3.cpp)`PAT` `DFS`
+4. [安排房间](https://github.com/faxinwang/2017_summer_train/blob/master/15.%E4%BA%8C%E5%88%86%E5%9B%BE-%E5%AE%89%E6%8E%92%E6%88%BF%E9%97%B4.cpp)`HDU` `二分图`
 
-## 矩阵
+5. [任务安排](https://github.com/faxinwang/2017_summer_train/blob/master/16.%E4%BA%8C%E5%88%86%E5%9B%BE-%E4%BB%BB%E5%8A%A1%E5%AE%89%E6%8E%92.cpp)`HDU` `二分图`
+
+6. [排座位](https://github.com/faxinwang/OJ_PAT/blob/master/C4_GPLT/L2_10.cpp)`PAT` `DFS`
+
+7. [社交集群](https://github.com/faxinwang/OJ_PAT/blob/master/C4_GPLT/L3_3.cpp)`PAT` `DFS`
 
 ## 字符串
 
@@ -106,4 +118,12 @@
 
 4. [1005. Spell It Right](https://github.com/faxinwang/OJ_PAT/blob/master/2%20advance/1-20/1005.%20Spell%20It%20Right%20(20).cpp)`PAT`
 
-5. [最长对称子串](https://github.com/faxinwang/OJ_PAT/blob/master/C4_GPLT/L2_8.cpp)`PAT` `回文串`
+5. [最长对称子串](https://github.com/faxinwang/OJ_PAT/blob/master/C4_GPLT/L2_8.cpp)`PAT` `最长回文子串`
+
+6. [1015_KMP算法](https://github.com/faxinwang/HihoCoder/blob/master/dataStructure/1015_KMP%E7%AE%97%E6%B3%95.cpp) `HihoCoder` `KMP`
+
+7. [1032_最长回文子串(解法一)](https://github.com/faxinwang/HihoCoder/blob/master/dataStructure/1032_%E6%9C%80%E9%95%BF%E5%9B%9E%E6%96%87%E5%AD%90%E4%B8%B2(%E8%A7%A3%E6%B3%95%E4%B8%80).cpp) `HihoCoder`
+
+8. [1032_最长回文子串(解法二)](https://github.com/faxinwang/HihoCoder/blob/master/dataStructure/1032_%E6%9C%80%E9%95%BF%E5%9B%9E%E6%96%87%E5%AD%90%E4%B8%B2(%E8%A7%A3%E6%B3%95%E4%BA%8C).cpp) `HihoCoder`
+
+9. [1052.基因工程](https://github.com/faxinwang/HihoCoder/blob/master/dataStructure/1052.%E5%9F%BA%E5%9B%A0%E5%B7%A5%E7%A8%8B.cpp) `HihoCoder` `相同前后缀`
