@@ -4,11 +4,11 @@
 
 ## 算法
 
-* [搜索](links/algorithms/search.html)
-
 * [数据结构](links/algorithms/dataStructure.html)
 
 * [动态规划](links/algorithms/dp.html)
+
+* [搜索](links/algorithms/search.html)
 
 * [贪心](links/algorithms/greedy.html)
 
@@ -34,7 +34,8 @@
   * [稀疏矩阵](https://github.com/faxinwang/DataStructure/blob/master/cpp/Matrixs/MatrixTriple.hpp)
 
 * 树
-  * [二叉树]
+  * [二叉树](https://github.com/faxinwang/DataStructure/blob/master/cpp/Tree/BinTree.hpp)
+  * [二叉查找树](https://github.com/faxinwang/DataStructure/blob/master/cpp/Tree/BST.hpp)
   * [二叉平衡树]
 
 * 图

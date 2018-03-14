@@ -62,7 +62,7 @@
 
 10. [串查找](https://github.com/faxinwang/2017_summer_train/blob/master/18.%E5%89%8D%E7%BC%80%E6%A0%91-%E4%B8%B2%E6%9F%A5%E6%89%BE.cpp) `前缀树`
 
-11. [贴海报](https://github.com/faxinwang/2017_summer_train/blob/master/19.%E7%BA%BF%E6%AE%B5%E6%A0%91-%E8%B4%B4%E6%B5%B7%E6%8A%A5.cpp)`POJ` `线段树`
+11. [贴海报](https://github.com/faxinwang/2017_summer_train/blob/master/19.%E7%BA%BF%E6%AE%B5%E6%A0%91-%E8%B4%B4%E6%B5%B7%E6%8A%A5.cpp)`POJ` `线段树` `离散化`
 
 12. [1004. Counting Leaves](https://github.com/faxinwang/OJ_PAT/blob/master/2%20advance/1-20/1004.%20Counting%20Leaves%20(30).cpp)`PAT` `树`
 
@@ -84,12 +84,19 @@
 
 21. [1069.最近公共祖先三](https://github.com/faxinwang/HihoCoder/blob/master/dataStructure/1069.%E6%9C%80%E8%BF%91%E5%85%AC%E5%85%B1%E7%A5%96%E5%85%88%E4%B8%89.cpp)`HihoCoder` `RMQ-ST` `DFS` `树转数组`
 
+22. [1077.RMQ问题再临-线段树](https://github.com/faxinwang/HihoCoder/blob/master/dataStructure/1077.RMQ%E9%97%AE%E9%A2%98%E5%86%8D%E4%B8%B4-%E7%BA%BF%E6%AE%B5%E6%A0%91.cpp)`线段树` `RMQ` `单点插入`
+
+23. [1078.线段树的区间修改](https://github.com/faxinwang/HihoCoder/blob/master/dataStructure/1078.%E7%BA%BF%E6%AE%B5%E6%A0%91%E7%9A%84%E5%8C%BA%E9%97%B4%E4%BF%AE%E6%94%B9.cpp) `线段树` `区间修改`
+
+24. [1079.离散化](https://github.com/faxinwang/HihoCoder/blob/master/dataStructure/1079.%E7%A6%BB%E6%95%A3%E5%8C%96.cpp) `线段树` `区间修改` `离散化`
+
+25. [1080.更为复杂的买卖房屋姿势](https://github.com/faxinwang/HihoCoder/blob/master/dataStructure/1080.%E6%9B%B4%E4%B8%BA%E5%A4%8D%E6%9D%82%E7%9A%84%E4%B9%B0%E5%8D%96%E6%88%BF%E5%B1%8B%E5%A7%BF%E5%8A%BF.cpp)`线段树` `区间修改` `懒惰标记`
+
 ## 并查集
 
 1. [臭虫也疯狂(解法1)](https://github.com/faxinwang/2017_summer_train/blob/master/5.%E5%B9%B6%E6%9F%A5%E9%9B%86-%E8%87%AD%E8%99%AB%E4%B9%9F%E7%96%AF%E7%8B%82.cpp)`POJ`
 
 2. [臭虫也疯狂(解法2)](https://github.com/faxinwang/2017_summer_train/blob/master/5.%E5%B9%B6%E6%9F%A5%E9%9B%86-%E8%87%AD%E8%99%AB%E4%B9%9F%E7%96%AF%E7%8B%822.cpp)`POJ`
-
 
 
 ## 图
