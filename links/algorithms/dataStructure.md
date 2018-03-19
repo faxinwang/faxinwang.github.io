@@ -105,7 +105,7 @@
 
 2. [1013. Battle Over Cities](https://github.com/faxinwang/OJ_PAT/blob/master/2%20advance/1-20/1013.%20Battle%20Over%20Cities%20(25).cpp)`PAT` `统计连通分量`
 
-3. [1018. Public Bike Management](https://github.com/faxinwang/OJ_PAT/blob/master/2%20advance/1-20/1018.%20Public%20Bike%20Management%20(30).cpp)`PAT` `最优路径`
+3. [1018. Public Bike Management](https://github.com/faxinwang/OJ_PAT/blob/master/2%20advance/1-20/1018.%20Public%20Bike%20Management%20(30).cpp)`PAT` `最优最短路径`
 
 4. [安排房间](https://github.com/faxinwang/2017_summer_train/blob/master/15.%E4%BA%8C%E5%88%86%E5%9B%BE-%E5%AE%89%E6%8E%92%E6%88%BF%E9%97%B4.cpp)`HDU` `二分图`
 

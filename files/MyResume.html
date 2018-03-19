@@ -1,0 +1,392 @@
+<!DOCTYPE html>
+  <html>
+    <head>
+      <title>MyResume</title>
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.9.0/katex.min.css">
+      
+      
+      
+      
+      
+      
+      
+      
+      
+
+      <style> 
+      /**
+ * prism.js Github theme based on GitHub's theme.
+ * @author Sam Clarke
+ */
+code[class*="language-"],
+pre[class*="language-"] {
+  color: #333;
+  background: none;
+  font-family: Consolas, "Liberation Mono", Menlo, Courier, monospace;
+  text-align: left;
+  white-space: pre;
+  word-spacing: normal;
+  word-break: normal;
+  word-wrap: normal;
+  line-height: 1.4;
+
+  -moz-tab-size: 8;
+  -o-tab-size: 8;
+  tab-size: 8;
+
+  -webkit-hyphens: none;
+  -moz-hyphens: none;
+  -ms-hyphens: none;
+  hyphens: none;
+}
+
+/* Code blocks */
+pre[class*="language-"] {
+  padding: .8em;
+  overflow: auto;
+  /* border: 1px solid #ddd; */
+  border-radius: 3px;
+  /* background: #fff; */
+  background: #f5f5f5;
+}
+
+/* Inline code */
+:not(pre) > code[class*="language-"] {
+  padding: .1em;
+  border-radius: .3em;
+  white-space: normal;
+  background: #f5f5f5;
+}
+
+.token.comment,
+.token.blockquote {
+  color: #969896;
+}
+
+.token.cdata {
+  color: #183691;
+}
+
+.token.doctype,
+.token.punctuation,
+.token.variable,
+.token.macro.property {
+  color: #333;
+}
+
+.token.operator,
+.token.important,
+.token.keyword,
+.token.rule,
+.token.builtin {
+  color: #a71d5d;
+}
+
+.token.string,
+.token.url,
+.token.regex,
+.token.attr-value {
+  color: #183691;
+}
+
+.token.property,
+.token.number,
+.token.boolean,
+.token.entity,
+.token.atrule,
+.token.constant,
+.token.symbol,
+.token.command,
+.token.code {
+  color: #0086b3;
+}
+
+.token.tag,
+.token.selector,
+.token.prolog {
+  color: #63a35c;
+}
+
+.token.function,
+.token.namespace,
+.token.pseudo-element,
+.token.class,
+.token.class-name,
+.token.pseudo-class,
+.token.id,
+.token.url-reference .token.variable,
+.token.attr-name {
+  color: #795da3;
+}
+
+.token.entity {
+  cursor: help;
+}
+
+.token.title,
+.token.title .token.punctuation {
+  font-weight: bold;
+  color: #1d3e81;
+}
+
+.token.list {
+  color: #ed6a43;
+}
+
+.token.inserted {
+  background-color: #eaffea;
+  color: #55a532;
+}
+
+.token.deleted {
+  background-color: #ffecec;
+  color: #bd2c00;
+}
+
+.token.bold {
+  font-weight: bold;
+}
+
+.token.italic {
+  font-style: italic;
+}
+
+
+/* JSON */
+.language-json .token.property {
+  color: #183691;
+}
+
+.language-markup .token.tag .token.punctuation {
+  color: #333;
+}
+
+/* CSS */
+code.language-css,
+.language-css .token.function {
+  color: #0086b3;
+}
+
+/* YAML */
+.language-yaml .token.atrule {
+  color: #63a35c;
+}
+
+code.language-yaml {
+  color: #183691;
+}
+
+/* Ruby */
+.language-ruby .token.function {
+  color: #333;
+}
+
+/* Markdown */
+.language-markdown .token.url {
+  color: #795da3;
+}
+
+/* Makefile */
+.language-makefile .token.symbol {
+  color: #795da3;
+}
+
+.language-makefile .token.variable {
+  color: #183691;
+}
+
+.language-makefile .token.builtin {
+  color: #0086b3;
+}
+
+/* Bash */
+.language-bash .token.keyword {
+  color: #0086b3;
+}html body{font-family:"Helvetica Neue",Helvetica,"Segoe UI",Arial,freesans,sans-serif;font-size:16px;line-height:1.6;color:#333;background-color:#fff;overflow:initial;box-sizing:border-box;word-wrap:break-word}html body>:first-child{margin-top:0}html body h1,html body h2,html body h3,html body h4,html body h5,html body h6{line-height:1.2;margin-top:1em;margin-bottom:16px;color:#000}html body h1{font-size:2.25em;font-weight:300;padding-bottom:.3em}html body h2{font-size:1.75em;font-weight:400;padding-bottom:.3em}html body h3{font-size:1.5em;font-weight:500}html body h4{font-size:1.25em;font-weight:600}html body h5{font-size:1.1em;font-weight:600}html body h6{font-size:1em;font-weight:600}html body h1,html body h2,html body h3,html body h4,html body h5{font-weight:600}html body h5{font-size:1em}html body h6{color:#5c5c5c}html body strong{color:#000}html body del{color:#5c5c5c}html body a:not([href]){color:inherit;text-decoration:none}html body a{color:#08c;text-decoration:none}html body a:hover{color:#00a3f5;text-decoration:none}html body img{max-width:100%}html body>p{margin-top:0;margin-bottom:16px;word-wrap:break-word}html body>ul,html body>ol{margin-bottom:16px}html body ul,html body ol{padding-left:2em}html body ul.no-list,html body ol.no-list{padding:0;list-style-type:none}html body ul ul,html body ul ol,html body ol ol,html body ol ul{margin-top:0;margin-bottom:0}html body li{margin-bottom:0}html body li.task-list-item{list-style:none}html body li>p{margin-top:0;margin-bottom:0}html body .task-list-item-checkbox{margin:0 .2em .25em -1.8em;vertical-align:middle}html body .task-list-item-checkbox:hover{cursor:pointer}html body blockquote{margin:16px 0;font-size:inherit;padding:0 15px;color:#5c5c5c;border-left:4px solid #d6d6d6}html body blockquote>:first-child{margin-top:0}html body blockquote>:last-child{margin-bottom:0}html body hr{height:4px;margin:32px 0;background-color:#d6d6d6;border:0 none}html body table{margin:10px 0 15px 0;border-collapse:collapse;border-spacing:0;display:block;width:100%;overflow:auto;word-break:normal;word-break:keep-all}html body table th{font-weight:bold;color:#000}html body table td,html body table th{border:1px solid #d6d6d6;padding:6px 13px}html body dl{padding:0}html body dl dt{padding:0;margin-top:16px;font-size:1em;font-style:italic;font-weight:bold}html body dl dd{padding:0 16px;margin-bottom:16px}html body code{font-family:Menlo,Monaco,Consolas,'Courier New',monospace;font-size:.85em !important;color:#000;background-color:#f0f0f0;border-radius:3px;padding:.2em 0}html body code::before,html body code::after{letter-spacing:-0.2em;content:"\00a0"}html body pre>code{padding:0;margin:0;font-size:.85em !important;word-break:normal;white-space:pre;background:transparent;border:0}html body .highlight{margin-bottom:16px}html body .highlight pre,html body pre{padding:1em;overflow:auto;font-size:.85em !important;line-height:1.45;border:#d6d6d6;border-radius:3px}html body .highlight pre{margin-bottom:0;word-break:normal}html body pre code,html body pre tt{display:inline;max-width:initial;padding:0;margin:0;overflow:initial;line-height:inherit;word-wrap:normal;background-color:transparent;border:0}html body pre code:before,html body pre tt:before,html body pre code:after,html body pre tt:after{content:normal}html body p,html body blockquote,html body ul,html body ol,html body dl,html body pre{margin-top:0;margin-bottom:16px}html body kbd{color:#000;border:1px solid #d6d6d6;border-bottom:2px solid #c7c7c7;padding:2px 4px;background-color:#f0f0f0;border-radius:3px}@media print{html body{background-color:#fff}html body h1,html body h2,html body h3,html body h4,html body h5,html body h6{color:#000;page-break-after:avoid}html body blockquote{color:#5c5c5c}html body pre{page-break-inside:avoid}html body table{display:table}html body img{display:block;max-width:100%;max-height:100%}html body pre,html body code{word-wrap:break-word;white-space:pre}}.markdown-preview{width:100%;height:100%;box-sizing:border-box}.markdown-preview .pagebreak,.markdown-preview .newpage{page-break-before:always}.markdown-preview pre.line-numbers{position:relative;padding-left:3.8em;counter-reset:linenumber}.markdown-preview pre.line-numbers>code{position:relative}.markdown-preview pre.line-numbers .line-numbers-rows{position:absolute;pointer-events:none;top:1em;font-size:100%;left:0;width:3em;letter-spacing:-1px;border-right:1px solid #999;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none}.markdown-preview pre.line-numbers .line-numbers-rows>span{pointer-events:none;display:block;counter-increment:linenumber}.markdown-preview pre.line-numbers .line-numbers-rows>span:before{content:counter(linenumber);color:#999;display:block;padding-right:.8em;text-align:right}.markdown-preview .mathjax-exps .MathJax_Display{text-align:center !important}.markdown-preview:not([for="preview"]) .code-chunk .btn-group{display:none}.markdown-preview:not([for="preview"]) .code-chunk .status{display:none}.markdown-preview:not([for="preview"]) .code-chunk .output-div{margin-bottom:16px}.scrollbar-style::-webkit-scrollbar{width:8px}.scrollbar-style::-webkit-scrollbar-track{border-radius:10px;background-color:transparent}.scrollbar-style::-webkit-scrollbar-thumb{border-radius:5px;background-color:rgba(150,150,150,0.66);border:4px solid rgba(150,150,150,0.66);background-clip:content-box}html body[for="html-export"]:not([data-presentation-mode]){position:relative;width:100%;height:100%;top:0;left:0;margin:0;padding:0;overflow:auto}html body[for="html-export"]:not([data-presentation-mode]) .markdown-preview{position:relative;top:0}@media screen and (min-width:914px){html body[for="html-export"]:not([data-presentation-mode]) .markdown-preview{padding:2em calc(50% - 457px)}}@media screen and (max-width:914px){html body[for="html-export"]:not([data-presentation-mode]) .markdown-preview{padding:2em}}@media screen and (max-width:450px){html body[for="html-export"]:not([data-presentation-mode]) .markdown-preview{font-size:14px !important;padding:1em}}@media print{html body[for="html-export"]:not([data-presentation-mode]) #sidebar-toc-btn{display:none}}html body[for="html-export"]:not([data-presentation-mode]) #sidebar-toc-btn{position:fixed;bottom:8px;left:8px;font-size:28px;cursor:pointer;color:inherit;z-index:99;width:32px;text-align:center;opacity:.4}html body[for="html-export"]:not([data-presentation-mode])[html-show-sidebar-toc] #sidebar-toc-btn{opacity:1}html body[for="html-export"]:not([data-presentation-mode])[html-show-sidebar-toc] .md-sidebar-toc{position:fixed;top:0;left:0;width:300px;height:100%;padding:32px 0 48px 0;font-size:14px;box-shadow:0 0 4px rgba(150,150,150,0.33);box-sizing:border-box;overflow:auto;background-color:inherit}html body[for="html-export"]:not([data-presentation-mode])[html-show-sidebar-toc] .md-sidebar-toc::-webkit-scrollbar{width:8px}html body[for="html-export"]:not([data-presentation-mode])[html-show-sidebar-toc] .md-sidebar-toc::-webkit-scrollbar-track{border-radius:10px;background-color:transparent}html body[for="html-export"]:not([data-presentation-mode])[html-show-sidebar-toc] .md-sidebar-toc::-webkit-scrollbar-thumb{border-radius:5px;background-color:rgba(150,150,150,0.66);border:4px solid rgba(150,150,150,0.66);background-clip:content-box}html body[for="html-export"]:not([data-presentation-mode])[html-show-sidebar-toc] .md-sidebar-toc a{text-decoration:none}html body[for="html-export"]:not([data-presentation-mode])[html-show-sidebar-toc] .md-sidebar-toc ul{padding:0 1.6em;margin-top:.8em}html body[for="html-export"]:not([data-presentation-mode])[html-show-sidebar-toc] .md-sidebar-toc li{margin-bottom:.8em}html body[for="html-export"]:not([data-presentation-mode])[html-show-sidebar-toc] .md-sidebar-toc ul{list-style-type:none}html body[for="html-export"]:not([data-presentation-mode])[html-show-sidebar-toc] .markdown-preview{left:300px;width:calc(100% -  300px);padding:2em calc(50% - 457px -  150px);margin:0;box-sizing:border-box}@media screen and (max-width:1274px){html body[for="html-export"]:not([data-presentation-mode])[html-show-sidebar-toc] .markdown-preview{padding:2em}}@media screen and (max-width:450px){html body[for="html-export"]:not([data-presentation-mode])[html-show-sidebar-toc] .markdown-preview{width:100%}}html body[for="html-export"]:not([data-presentation-mode]):not([html-show-sidebar-toc]) .markdown-preview{left:50%;transform:translateX(-50%)}html body[for="html-export"]:not([data-presentation-mode]):not([html-show-sidebar-toc]) .md-sidebar-toc{display:none}
+ 
+      </style>
+    </head>
+    <body for="html-export">
+      <div class="mume markdown-preview   ">
+      <h1 class="mume-header" id="%E4%B8%AA%E4%BA%BA%E7%AE%80%E5%8E%86">个人简历</h1>
+
+<hr>
+<h2 class="mume-header" id="%E7%8E%8B%E5%8F%91%E6%96%B0">王发新</h2>
+
+<blockquote>
+<ul>
+<li>工科男一枚，程序员一只。</li>
+<li>喜欢捣腾技术，热爱钻研算法。</li>
+<li>热爱生活，积极进取。</li>
+<li>性格随和，宽容大方。</li>
+</ul>
+</blockquote>
+<h3 class="mume-header" id="%E5%9F%BA%E6%9C%AC%E4%BF%A1%E6%81%AF">基本信息</h3>
+
+<ul>
+<li>性别：男</li>
+<li>学历：三峡大学本科</li>
+<li>专业：数字媒体技术</li>
+<li>籍贯：湖北孝感</li>
+<li>现居：湖北宜昌</li>
+<li>Email：www.wjx.gg.66@qq.com</li>
+</ul>
+<h3 class="mume-header" id="%E5%A4%A7%E5%AD%A6%E8%8E%B7%E5%A5%96%E6%83%85%E5%86%B5">大学获奖情况</h3>
+
+<ol>
+<li>2015年10月 <strong>三峡大学程序设计校赛三等奖</strong></li>
+<li>2016年4月 <strong>第七届蓝桥杯省赛一等奖</strong></li>
+<li>2016年5月 <strong>第七届蓝桥杯国赛三等奖</strong></li>
+<li>2016年10月 <strong>三峡大学程序设计校赛二等奖</strong></li>
+<li>2017年4月 <strong>第八届蓝桥杯省赛一等奖</strong></li>
+<li>2017年5月 <strong>第八届蓝桥杯国赛二等奖</strong></li>
+</ol>
+<h3 class="mume-header" id="%E5%A5%96%E5%AD%A6%E9%87%91%E5%8F%8A%E5%AD%A6%E4%B9%A0%E6%83%85%E5%86%B5">奖学金及学习情况</h3>
+
+<table>
+<thead>
+<tr>
+<th style="text-align:center">时间</th>
+<th style="text-align:center">奖学金</th>
+<th style="text-align:center">成绩排名</th>
+<th style="text-align:center">综合排名</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:center">2015-2016</td>
+<td style="text-align:center">国家励志奖学金<br>校一等奖学金</td>
+<td style="text-align:center">2/43</td>
+<td style="text-align:center">1/43</td>
+</tr>
+<tr>
+<td style="text-align:center">2016-2017</td>
+<td style="text-align:center">国家励志奖学金<br>校一等奖学金</td>
+<td style="text-align:center">4/43</td>
+<td style="text-align:center">2/43</td>
+</tr>
+</tbody>
+</table>
+<h3 class="mume-header" id="%E6%8B%85%E4%BB%BB%E8%81%8C%E5%8A%A1">担任职务</h3>
+
+<blockquote>
+<p>2015-2016</p>
+<blockquote>
+<ol>
+<li><strong>三峡大学杨帆索源技术部</strong><br>
+职务：干事<br>
+职责：负责平台公众号中微信图文排版，图片和音频素材的处理等。<br>
+收获：第一次接触到了微信公众号，了解公众号后台管理的一些功能，学会了如何自己申请并运营一个微信公众号。在多次例会和联谊活动中增强了人际交往能力。与部门的小伙伴和部长们成为了好朋友，收获了珍贵的友谊。</li>
+<li><strong>三峡大学广播台秘书处</strong><br>
+职务：干事<br>
+职责：负责平时会议文件，文档的处理。<br>
+收获：训练了word，ppt的使用，对office软件更加熟练。部门活动很多，认识了一群好朋友，丰富了大学生活。</li>
+</ol>
+</blockquote>
+</blockquote>
+<blockquote>
+<p>2016-2017</p>
+<blockquote>
+<p><strong>计算机与信息学院启明星工作室软件组</strong><br>
+职务：算法组组长<br>
+职责：负责组织组员参加很多线上线下的算法竞赛，协助指导老师进行一些算法讲解和训练等工作。<br>
+收获：让自己对算法有了更多的认识，增加了算法知识面和编程能力。在相互讨论和交流的过程中增加了对算法的理解和表述能力。</p>
+</blockquote>
+</blockquote>
+<blockquote>
+<p>2017-2018</p>
+<blockquote>
+<p><strong>数字媒体20151661班</strong><br>
+职务：班长<br>
+职责：作为辅导员和老师 与 班级之间的沟通桥梁，完成班会，班务等<br>
+收获：有时候琐碎事情很多，锻炼了自己的抗压能力。</p>
+</blockquote>
+</blockquote>
+<h3 class="mume-header" id="%E8%81%8C%E4%B8%9A%E6%8A%80%E8%83%BD">职业技能</h3>
+
+<ol>
+<li>具有扎实的数据结构和算法功底，对常用数据结构如顺序表，链表，栈和队列，树和二叉树，哈夫曼树，线段树，二叉搜索树，平衡树，有向图无向图以及建立在这些数据结构上的算法都很熟悉。</li>
+<li>具有较强的C++功底, 在Qt课程和Cocos2d课程中加强了C++的项目经历和C++面向对象编程经验。</li>
+<li>具有一定的java和python编程能力, 用python爬取过HihoCoder,NowCoder上的竞赛排行榜和数学建模美赛竞赛用数据。</li>
+<li>对设计模式有一定的了解，但运用还不够熟练。</li>
+</ol>
+<h3 class="mume-header" id="%E8%B5%84%E6%A0%BC%E8%AF%81%E4%B9%A6">资格证书</h3>
+
+<ul>
+<li>通过CET-6考试，具有较强的英文阅读能力，能阅读英文技术书籍和文档，能进行基本的口语交流。</li>
+<li>通过软考中级 - 软件设计师</li>
+<li>通过软考初级 - 程序员</li>
+<li>通过计算机等级考试 - C++二级</li>
+<li>通过驾驶证考试 - C1</li>
+</ul>
+<h3 class="mume-header" id="%E9%A1%B9%E7%9B%AE%E7%BB%8F%E5%8E%86">项目经历</h3>
+
+<blockquote>
+<p>没做过什么大的项目，不过小玩儿倒是做过不少。</p>
+</blockquote>
+<ul>
+<li>聊天程序: <a href="https://github.com/faxinwang/MyQQ">MyQQ</a></li>
+<li>锁屏程序: <a href="https://github.com/faxinwang/WFXScreenLocker">WFXScreenLocker</a></li>
+<li>签到助手: <a href="https://github.com/faxinwang/RegisterHelper">RegisterHelper</a></li>
+<li>小游戏2048: <a href="https://github.com/faxinwang/My2048">My2048</a></li>
+<li>小游戏连连看: <a href="https://github.com/faxinwang/LLK">LLK</a></li>
+<li>遗传算法解TSP: <a href="https://github.com/faxinwang/TSPGA">TSPGA</a></li>
+</ul>
+
+      </div>
+      <div class="md-sidebar-toc"><ul>
+<li><a href="#%E4%B8%AA%E4%BA%BA%E7%AE%80%E5%8E%86">个人简历</a>
+<ul>
+<li><a href="#%E7%8E%8B%E5%8F%91%E6%96%B0">王发新</a>
+<ul>
+<li><a href="#%E5%9F%BA%E6%9C%AC%E4%BF%A1%E6%81%AF">基本信息</a></li>
+<li><a href="#%E5%A4%A7%E5%AD%A6%E8%8E%B7%E5%A5%96%E6%83%85%E5%86%B5">大学获奖情况</a></li>
+<li><a href="#%E5%A5%96%E5%AD%A6%E9%87%91%E5%8F%8A%E5%AD%A6%E4%B9%A0%E6%83%85%E5%86%B5">奖学金及学习情况</a></li>
+<li><a href="#%E6%8B%85%E4%BB%BB%E8%81%8C%E5%8A%A1">担任职务</a></li>
+<li><a href="#%E8%81%8C%E4%B8%9A%E6%8A%80%E8%83%BD">职业技能</a></li>
+<li><a href="#%E8%B5%84%E6%A0%BC%E8%AF%81%E4%B9%A6">资格证书</a></li>
+<li><a href="#%E9%A1%B9%E7%9B%AE%E7%BB%8F%E5%8E%86">项目经历</a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</div>
+      <a id="sidebar-toc-btn">≡</a>
+    </body>
+    
+    
+    
+    
+    
+    <script>
+(function bindTaskListEvent() {
+  var taskListItemCheckboxes = document.body.getElementsByClassName('task-list-item-checkbox')
+  for (var i = 0; i < taskListItemCheckboxes.length; i++) {
+    var checkbox = taskListItemCheckboxes[i]
+    var li = checkbox.parentElement
+    if (li.tagName !== 'LI') li = li.parentElement
+    if (li.tagName === 'LI') {
+      li.classList.add('task-list-item')
+    }
+  }
+}())    
+</script>
+    
+<script>
+
+var sidebarTOCBtn = document.getElementById('sidebar-toc-btn')
+sidebarTOCBtn.addEventListener('click', function(event) {
+  event.stopPropagation()
+  if (document.body.hasAttribute('html-show-sidebar-toc')) {
+    document.body.removeAttribute('html-show-sidebar-toc')
+  } else {
+    document.body.setAttribute('html-show-sidebar-toc', true)
+  }
+})
+</script>
+      
+  </html>
