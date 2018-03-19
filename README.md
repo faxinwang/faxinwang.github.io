@@ -1,6 +1,7 @@
 # [王发新的个人博客](https://faxinwang.github.io/)
 
 [github](https://github.com/faxinwang)
+[resume](files/MyResume.html)
 
 ## 算法
 
