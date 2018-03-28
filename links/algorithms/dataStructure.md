@@ -40,6 +40,8 @@
 
 1. [用两个栈实现队列](https://github.com/faxinwang/OJ_NowCoder/blob/master/%E5%89%91%E6%8C%87offer%E7%BC%96%E7%A8%8B%E9%A2%98/5.%E7%94%A8%E4%B8%A4%E4%B8%AA%E6%A0%88%E5%AE%9E%E7%8E%B0%E9%98%9F%E5%88%97.cpp)`NowCoder`
 
+2. [B.幸运数字II](https://github.com/faxinwang/OJ_NowCoder/blob/master/%E7%AB%9E%E8%B5%9B/%E7%BB%83%E4%B9%A0%E8%B5%9B13/B.%E5%B9%B8%E8%BF%90%E6%95%B0%E5%AD%97II.cpp)`NowCoder` `二叉树层序遍历的应用`
+
 ## 树&二叉树
 
 1. [63.小猴子下落](https://github.com/faxinwang/OJ_NYOJ/blob/master/data_structure/63.%E5%B0%8F%E7%8C%B4%E5%AD%90%E4%B8%8B%E8%90%BD.cpp)`NYOJ`
@@ -92,6 +94,14 @@
 
 25. [1080.更为复杂的买卖房屋姿势](https://github.com/faxinwang/HihoCoder/blob/master/dataStructure/1080.%E6%9B%B4%E4%B8%BA%E5%A4%8D%E6%9D%82%E7%9A%84%E4%B9%B0%E5%8D%96%E6%88%BF%E5%B1%8B%E5%A7%BF%E5%8A%BF.cpp)`线段树` `区间修改` `懒惰标记`
 
+26. [1097.最小生成树一Prim算法](https://github.com/faxinwang/HihoCoder/blob/master/dataStructure/1097.%E6%9C%80%E5%B0%8F%E7%94%9F%E6%88%90%E6%A0%91%E4%B8%80Prim%E7%AE%97%E6%B3%95.cpp)`HihoCoder` `最小生成树` `prim`
+
+27. [1098.最小生成树二Kruscal算法](https://github.com/faxinwang/HihoCoder/blob/master/dataStructure/1098.%E6%9C%80%E5%B0%8F%E7%94%9F%E6%88%90%E6%A0%91%E4%BA%8CKruscal%E7%AE%97%E6%B3%95.cpp)`HihoCoder` `最小生成树` `kruskal`
+
+28. [1109.最小生成树三堆优化的Prim算法](https://github.com/faxinwang/HihoCoder/blob/master/dataStructure/1109.%E6%9C%80%E5%B0%8F%E7%94%9F%E6%88%90%E6%A0%91%E4%B8%89%E5%A0%86%E4%BC%98%E5%8C%96%E7%9A%84Prim%E7%AE%97%E6%B3%95.cpp)`HihoCoder` `最小生成树` `prim` `堆优化`
+
+29. [1116.计算](https://github.com/faxinwang/HihoCoder/blob/master/dataStructure/1116.%E8%AE%A1%E7%AE%97.cpp)`HihoCoder` `线段树` `前缀积` `后缀积`
+
 ## 并查集
 
 1. [臭虫也疯狂(解法1)](https://github.com/faxinwang/2017_summer_train/blob/master/5.%E5%B9%B6%E6%9F%A5%E9%9B%86-%E8%87%AD%E8%99%AB%E4%B9%9F%E7%96%AF%E7%8B%82.cpp)`POJ`
@@ -107,13 +117,34 @@
 
 3. [1018. Public Bike Management](https://github.com/faxinwang/OJ_PAT/blob/master/2%20advance/1-20/1018.%20Public%20Bike%20Management%20(30).cpp)`PAT` `最优最短路径`
 
-4. [安排房间](https://github.com/faxinwang/2017_summer_train/blob/master/15.%E4%BA%8C%E5%88%86%E5%9B%BE-%E5%AE%89%E6%8E%92%E6%88%BF%E9%97%B4.cpp)`HDU` `二分图`
+4. [安排房间](https://github.com/faxinwang/2017_summer_train/blob/master/15.%E4%BA%8C%E5%88%86%E5%9B%BE-%E5%AE%89%E6%8E%92%E6%88%BF%E9%97%B4.cpp)`HDU` `二分图` `最大匹配` `匈牙利算法`
 
-5. [任务安排](https://github.com/faxinwang/2017_summer_train/blob/master/16.%E4%BA%8C%E5%88%86%E5%9B%BE-%E4%BB%BB%E5%8A%A1%E5%AE%89%E6%8E%92.cpp)`HDU` `二分图`
+5. [任务安排](https://github.com/faxinwang/2017_summer_train/blob/master/16.%E4%BA%8C%E5%88%86%E5%9B%BE-%E4%BB%BB%E5%8A%A1%E5%AE%89%E6%8E%92.cpp)`HDU` `二分图` `最优带权匹配`
 
 6. [排座位](https://github.com/faxinwang/OJ_PAT/blob/master/C4_GPLT/L2_10.cpp)`PAT` `DFS`
 
 7. [社交集群](https://github.com/faxinwang/OJ_PAT/blob/master/C4_GPLT/L3_3.cpp)`PAT` `DFS`
+
+8. [1081.最短路径一](https://github.com/faxinwang/HihoCoder/blob/master/dataStructure/1081.%E6%9C%80%E7%9F%AD%E8%B7%AF%E5%BE%84%E4%B8%80.cpp)`HihoCoder` `单源最短路径` `Dijkstra`
+
+9. [1089.最短路径二Floyd算法](https://github.com/faxinwang/HihoCoder/blob/master/dataStructure/1089.%E6%9C%80%E7%9F%AD%E8%B7%AF%E5%BE%84%E4%BA%8CFloyd%E7%AE%97%E6%B3%95.cpp)`HihoCoder` `单源最短路径` `Floyd`
+
+10. [1093.最短路径三SPFA算法](https://github.com/faxinwang/HihoCoder/blob/master/dataStructure/1093.%E6%9C%80%E7%9F%AD%E8%B7%AF%E5%BE%84%E4%B8%89SPFA%E7%AE%97%E6%B3%95.cpp)`HihoCoder` `单源最短路径` `SPFA`
+
+11. [1121.二分图一.二分图判定](https://github.com/faxinwang/HihoCoder/blob/master/dataStructure/1121.%E4%BA%8C%E5%88%86%E5%9B%BE%E4%B8%80.%E4%BA%8C%E5%88%86%E5%9B%BE%E5%88%A4%E5%AE%9A.cpp)`HihoCoder`
+
+12. [1122.二分图二.二分图最大匹配之匈牙利算法](https://github.com/faxinwang/HihoCoder/blob/master/dataStructure/1122.%E4%BA%8C%E5%88%86%E5%9B%BE%E4%BA%8C.%E4%BA%8C%E5%88%86%E5%9B%BE%E6%9C%80%E5%A4%A7%E5%8C%B9%E9%85%8D%E4%B9%8B%E5%8C%88%E7%89%99%E5%88%A9%E7%AE%97%E6%B3%95.cpp)`HihoCoder`
+
+13. [1127.二分图三.二分图最小点覆盖和最大独立集](https://github.com/faxinwang/HihoCoder/blob/master/dataStructure/1127.%E4%BA%8C%E5%88%86%E5%9B%BE%E4%B8%89.%E4%BA%8C%E5%88%86%E5%9B%BE%E6%9C%80%E5%B0%8F%E7%82%B9%E8%A6%86%E7%9B%96%E5%92%8C%E6%9C%80%E5%A4%A7%E7%8B%AC%E7%AB%8B%E9%9B%86.cpp)`HihoCoder`
+
+14. [1176.欧拉路一](https://github.com/faxinwang/HihoCoder/blob/master/dataStructure/1176.欧拉路一.cpp)`HihoCoder` `欧拉路径的判定`
+
+15. [1181.欧拉路二](https://github.com/faxinwang/HihoCoder/blob/master/dataStructure/1181.欧拉路二.cpp)`HihoCoder` `Fleury求欧拉路径`
+
+16. [1182.欧拉路三(v1)](https://github.com/faxinwang/HihoCoder/blob/master/dataStructure/1182.欧拉路三(v1).cpp)`HihoCoder` `欧拉回路`
+
+17. [1182.欧拉路三(v2)](https://github.com/faxinwang/HihoCoder/blob/master/dataStructure/1182.欧拉路三(v2).cpp)`HihoCoder` `欧拉回路`
+
 
 ## 字符串
 
@@ -133,4 +164,14 @@
 
 8. [1032_最长回文子串(解法二)](https://github.com/faxinwang/HihoCoder/blob/master/dataStructure/1032_%E6%9C%80%E9%95%BF%E5%9B%9E%E6%96%87%E5%AD%90%E4%B8%B2(%E8%A7%A3%E6%B3%95%E4%BA%8C).cpp) `HihoCoder`
 
-9. [1052.基因工程](https://github.com/faxinwang/HihoCoder/blob/master/dataStructure/1052.%E5%9F%BA%E5%9B%A0%E5%B7%A5%E7%A8%8B.cpp) `HihoCoder` `相同前后缀`
+9. [1052.基因工程](https://github.com/faxinwang/HihoCoder/blob/master/dataStructure/1052.基因工程.cpp) `HihoCoder` `相同前后缀`
+
+10. [A.幸运数字I](https://github.com/faxinwang/OJ_NowCoder/blob/master/竞赛/练习赛13/A.幸运数字I.cpp)`NowCoder` `统计子串频率`
+
+11. [1039.字符消除](https://github.com/faxinwang/HihoCoder/blob/master/dataStructure/1039.字符消除.cpp)`HihoCoder`
+
+12. [相似的字符串](https://github.com/faxinwang/HihoCoder/blob/master/dataStructure/1709.相似的字符串.cpp)`HihoCoder`
+
+## 矩阵
+
+1. [G.旋转矩阵](https://github.com/faxinwang/OJ_NowCoder/blob/master/竞赛/90/G.旋转矩阵.cpp)`NowCoder` `矩阵旋转`

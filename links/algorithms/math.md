@@ -16,8 +16,6 @@
 
 7. [gcd配对数](https://github.com/faxinwang/2017_summer_train/blob/master/9.%E8%8E%AB%E6%AF%94%E4%B9%8C%E6%96%AF-gcd%E9%85%8D%E5%AF%B9%E6%95%B0.cpp)`HDU` `莫比乌斯反演`
 
-
-
 ## 计算几何类
 
 1. [选房子](https://github.com/faxinwang/2017_summer_train/blob/master/12.%E8%AE%A1%E7%AE%97%E5%87%A0%E4%BD%95-%E9%80%89%E6%88%BF%E5%AD%90.cpp)`HDU` `点与直线`
@@ -31,3 +29,5 @@
 1. [赛马](https://github.com/faxinwang/OJ_NowCoder/blob/master/%E5%85%AC%E5%8F%B8%E7%9C%9F%E9%A2%98/2017%E7%BD%91%E6%98%93%E6%B8%B8%E6%88%8F%E9%9B%B7%E7%81%AB%E7%9B%98%E5%8F%A4%E5%AE%9E%E4%B9%A0%E7%94%9F%E6%8B%9B%E8%81%98%E7%AC%94%E8%AF%95%E7%9C%9F%E9%A2%98/4%E8%B5%9B%E9%A9%AC.cpp) `NowCoder`
 
 ## 求方法种数类
+
+1. [F.m皇后](https://github.com/faxinwang/OJ_NowCoder/blob/master/%E7%AB%9E%E8%B5%9B/%E7%BB%83%E4%B9%A0%E8%B5%9B13/F.m%E7%9A%87%E5%90%8E.cpp)`NowCoder`

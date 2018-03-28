@@ -23,3 +23,11 @@
 10. [1055.刷油漆](https://github.com/faxinwang/HihoCoder/blob/master/dp/1055.%E5%88%B7%E6%B2%B9%E6%BC%86.cpp) `HihoCoder` `树形DP`
 
 11. [1068.RMQ-ST算法](https://github.com/faxinwang/HihoCoder/blob/master/dp/1068.RMQ-ST%E7%AE%97%E6%B3%95.cpp)`HihoCoder` `RMQ-ST`
+
+12. [A.银行存款](https://github.com/faxinwang/OJ_NowCoder/blob/master/%E7%AB%9E%E8%B5%9B/79/A.%E9%93%B6%E8%A1%8C%E5%AD%98%E6%AC%BE.cpp)`NowCoder`
+
+13. [B.T95要减肥](https://github.com/faxinwang/OJ_NowCoder/blob/master/%E7%AB%9E%E8%B5%9B/79/B.T95%E8%A6%81%E5%87%8F%E8%82%A5.cpp)`NowCoder`
+
+14. [D.psd面试](https://github.com/faxinwang/OJ_NowCoder/blob/master/%E7%AB%9E%E8%B5%9B/90/D.psd%E9%9D%A2%E8%AF%95.cpp)`NowCoder` `最长公共子序列`
+
+15. [1033.交错和](https://github.com/faxinwang/HihoCoder/blob/master/dp/1033.交错和.cpp)`HihoCoder` `数位dp`
