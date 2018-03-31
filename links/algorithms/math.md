@@ -28,6 +28,14 @@
 
 1. [赛马](https://github.com/faxinwang/OJ_NowCoder/blob/master/%E5%85%AC%E5%8F%B8%E7%9C%9F%E9%A2%98/2017%E7%BD%91%E6%98%93%E6%B8%B8%E6%88%8F%E9%9B%B7%E7%81%AB%E7%9B%98%E5%8F%A4%E5%AE%9E%E4%B9%A0%E7%94%9F%E6%8B%9B%E8%81%98%E7%AC%94%E8%AF%95%E7%9C%9F%E9%A2%98/4%E8%B5%9B%E9%A9%AC.cpp) `NowCoder`
 
-## 求方法种数类
+## 其他
 
-1. [F.m皇后](https://github.com/faxinwang/OJ_NowCoder/blob/master/%E7%AB%9E%E8%B5%9B/%E7%BB%83%E4%B9%A0%E8%B5%9B13/F.m%E7%9A%87%E5%90%8E.cpp)`NowCoder`
+1. [B.素数个数(解法二)](https://github.com/faxinwang/OJ_jisuanke/blob/master/contest/1215/B.素数个数(解法二).cpp)`jisuanke` `素数打表`
+
+2. [D.快速幂](https://github.com/faxinwang/OJ_jisuanke/blob/master/contest/1215/D.快速幂.cpp)`jisuanke`
+
+3. [E.末尾零的个数](https://github.com/faxinwang/OJ_jisuanke/blob/master/contest/1215/E.末尾零的个数.cpp)`jisuanke` `阶乘`
+
+4. [I.蒜头君的数轴](https://github.com/faxinwang/OJ_jisuanke/blob/master/contest/1215/I.蒜头君的数轴.cpp)`jisuanke` `前缀GCD` `后缀GCD`
+
+5. [J.整数划分](https://github.com/faxinwang/OJ_jisuanke/blob/master/contest/1215/J.整数划分.cpp)`jisuanke`

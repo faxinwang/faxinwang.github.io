@@ -57,6 +57,11 @@
 
 2. [移动棋子](https://github.com/faxinwang/2017_summer_train/blob/master/10.%E5%8D%9A%E5%BC%88-%E7%A7%BB%E5%8A%A8%E6%A3%8B%E5%AD%90.cpp)`POJ`
 
+## 求方法种数类
+
+1. [F.m皇后](https://github.com/faxinwang/OJ_NowCoder/blob/master/%E7%AB%9E%E8%B5%9B/%E7%BB%83%E4%B9%A0%E8%B5%9B13/F.m%E7%9A%87%E5%90%8E.cpp)`NowCoder`
+
+2. [H.蒜头君下棋](https://github.com/faxinwang/OJ_jisuanke/blob/master/contest/1215/H.蒜头君下棋.cpp)`jisuanke`
 
 ## 事物处理/模拟
 

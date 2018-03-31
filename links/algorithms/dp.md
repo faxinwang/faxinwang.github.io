@@ -30,4 +30,16 @@
 
 14. [D.psd面试](https://github.com/faxinwang/OJ_NowCoder/blob/master/%E7%AB%9E%E8%B5%9B/90/D.psd%E9%9D%A2%E8%AF%95.cpp)`NowCoder` `最长公共子序列`
 
-15. [1033.交错和](https://github.com/faxinwang/HihoCoder/blob/master/dp/1033.交错和.cpp)`HihoCoder` `数位dp`
+15. [1033.交错和](https://github.com/faxinwang/HihoCoder/blob/master/dp/1033.交错和.cpp)`HihoCoder` `数位DP`
+
+16. [C.加分二叉树](https://github.com/faxinwang/OJ_jisuanke/blob/master/contest/1215/C.加分二叉树.cpp)`jisuanke` `区间DP` `DFS`
+
+17. [2089.不要62](https://github.com/faxinwang/OJ_HDU/blob/master/dp/2089.不要62.cpp)`HDU` `数位DP`
+
+18. [3555.Bomb(解法一)](https://github.com/faxinwang/OJ_HDU/blob/master/dp/3555.Bomb(解法一).cpp)`HDU` `数位DP`
+
+19. [3555.Bomb(解法二)](https://github.com/faxinwang/OJ_HDU/blob/master/dp/3555.Bomb(解法二).cpp)`HDU` `数位DP`
+
+20. [3652.B-number](https://github.com/faxinwang/OJ_HDU/blob/master/dp/3652.B-number.cpp)`HDU` `数位DP`
+
+21. [3943.K-th_Nya_Number](https://github.com/faxinwang/OJ_HDU/blob/master/dp/3943.K-th_Nya_Number.cpp)`HDU` `数位DP` `二分搜索`

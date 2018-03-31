@@ -36,6 +36,8 @@
 
 5. [栈的压入,弹出序列](https://github.com/faxinwang/OJ_NowCoder/blob/master/%E5%89%91%E6%8C%87offer%E7%BC%96%E7%A8%8B%E9%A2%98/21.%E6%A0%88%E7%9A%84%E5%8E%8B%E5%85%A5%2C%E5%BC%B9%E5%87%BA%E5%BA%8F%E5%88%97..cpp)`NowCoder`
 
+6. [G.合并数字](https://github.com/faxinwang/OJ_jisuanke/blob/master/contest/1215/G.合并数字.cpp)`jisuanke`
+
 ## 队列
 
 1. [用两个栈实现队列](https://github.com/faxinwang/OJ_NowCoder/blob/master/%E5%89%91%E6%8C%87offer%E7%BC%96%E7%A8%8B%E9%A2%98/5.%E7%94%A8%E4%B8%A4%E4%B8%AA%E6%A0%88%E5%AE%9E%E7%8E%B0%E9%98%9F%E5%88%97.cpp)`NowCoder`
@@ -175,3 +177,5 @@
 ## 矩阵
 
 1. [G.旋转矩阵](https://github.com/faxinwang/OJ_NowCoder/blob/master/竞赛/90/G.旋转矩阵.cpp)`NowCoder` `矩阵旋转`
+
+2. [A.矩阵求和](https://github.com/faxinwang/OJ_jisuanke/blob/master/contest/1215/A.矩阵求和.cpp)`jisuanke` `矩阵中心`
