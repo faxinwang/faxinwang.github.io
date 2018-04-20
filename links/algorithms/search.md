@@ -2,7 +2,7 @@
 
 ## DFS
 
-1. [325.zb的生日](https://github.com/faxinwang/OJ_NYOJ/blob/master/search/325.zb%E7%9A%84%E7%94%9F%E6%97%A5(DFS%E8%A7%A301%E8%83%8C%E5%8C%85%E9%97%AE%E9%A2%98).cpp)`NYOJ` `01背包`
+1. [325.zb的生日](https://github.com/faxinwang/OJ_NYOJ/blob/master/search/325.zb的生日.cpp).cpp)`NYOJ` `01背包`
 
 2. [91.阶乘之和](https://github.com/faxinwang/OJ_NYOJ/blob/master/greedy/91.%E9%98%B6%E4%B9%98%E4%B9%8B%E5%92%8C.cpp)`NYOJ` `暴力枚举`
 
@@ -20,11 +20,13 @@
 
 ## BFS
 
-1. [20.贪婪的国度](https://github.com/faxinwang/OJ_NYOJ/blob/master/search/20.贪婪的国度.cpp)`NYOJ`
+1. [20.吝啬的国度](https://github.com/faxinwang/OJ_NYOJ/blob/master/search/20.吝啬的国度.cpp)`NYOJ`
 
 2. [推箱子](https://github.com/faxinwang/OJ_NowCoder/blob/master/%E5%85%AC%E5%8F%B8%E7%9C%9F%E9%A2%98/2017%E7%BD%91%E6%98%93%E6%B8%B8%E6%88%8F%E9%9B%B7%E7%81%AB%E7%9B%98%E5%8F%A4%E5%AE%9E%E4%B9%A0%E7%94%9F%E6%8B%9B%E8%81%98%E7%AC%94%E8%AF%95%E7%9C%9F%E9%A2%98/3%E6%8E%A8%E7%AE%B1%E5%AD%90.cpp)`NowCoder` `状态扩展`
 
 3. [通知小弟](https://github.com/faxinwang/OJ_NowCoder/blob/master/%E7%AB%9E%E8%B5%9B/2018%E5%B9%B4%E5%85%A8%E5%9B%BD%E5%A4%9A%E6%A0%A1%E7%AE%97%E6%B3%95%E5%AF%92%E5%81%87%E8%AE%AD%E7%BB%83%E8%90%A5%E7%BB%83%E4%B9%A0%E8%B5%9B/%E7%AC%AC%E5%9B%9B%E5%9C%BA/E.%E9%80%9A%E7%9F%A5%E5%B0%8F%E5%BC%9F.cpp)`NowCoder`
+
+4. [353.3D-dungeon](https://github.com/faxinwang/OJ_NYOJ/blob/master/search/353.3D-dungeon.cpp)`NYOJ`
 
 
 ## BinarySearch

@@ -76,7 +76,7 @@
 
 15. [这是二叉搜索树吗](https://github.com/faxinwang/OJ_PAT/blob/master/C4_GPLT/L2_4.cpp)`PAT` `BST`
 
-16. [堆栈](https://github.com/faxinwang/OJ_PAT/blob/master/C4_GPLT/L3_2.cpp)`PAT` `取中值`
+16. [堆栈](https://github.com/faxinwang/OJ_PAT/blob/master/C4_GPLT/L3_2.cpp)`PAT` `取中值` `线段树`
 
 17. [1021. Deepest Root](https://github.com/faxinwang/OJ_PAT/blob/master/2%20advance/21%20-%2040/1021.%20Deepest%20Root%20(25).cpp)`PAT` `最大深度`
 

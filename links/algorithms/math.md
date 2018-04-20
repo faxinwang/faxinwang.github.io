@@ -1,6 +1,6 @@
 # 数学类算法题
 
-## 数论类
+## 数论
 
 1. [1103.区域赛系列一多边形划分](https://github.com/faxinwang/OJ_NYOJ/blob/master/greedy/1103.%E5%8C%BA%E5%9F%9F%E8%B5%9B%E7%B3%BB%E5%88%97%E4%B8%80%E5%A4%9A%E8%BE%B9%E5%BD%A2%E5%88%92%E5%88%86.cpp) `NYOJ` `卡特兰数`
 
@@ -16,7 +16,7 @@
 
 7. [gcd配对数](https://github.com/faxinwang/2017_summer_train/blob/master/9.%E8%8E%AB%E6%AF%94%E4%B9%8C%E6%96%AF-gcd%E9%85%8D%E5%AF%B9%E6%95%B0.cpp)`HDU` `莫比乌斯反演`
 
-## 计算几何类
+## 计算几何
 
 1. [选房子](https://github.com/faxinwang/2017_summer_train/blob/master/12.%E8%AE%A1%E7%AE%97%E5%87%A0%E4%BD%95-%E9%80%89%E6%88%BF%E5%AD%90.cpp)`HDU` `点与直线`
 
@@ -24,9 +24,18 @@
 
 3. [空袭计算](https://github.com/faxinwang/2017_summer_train/blob/master/14.%E8%AE%A1%E7%AE%97%E5%87%A0%E4%BD%95-%E7%A9%BA%E8%A2%AD%E8%AE%A1%E7%AE%97.cpp)`HDU` `圆与多边形`
 
-## 概率类
+## 概率与期望
 
 1. [赛马](https://github.com/faxinwang/OJ_NowCoder/blob/master/%E5%85%AC%E5%8F%B8%E7%9C%9F%E9%A2%98/2017%E7%BD%91%E6%98%93%E6%B8%B8%E6%88%8F%E9%9B%B7%E7%81%AB%E7%9B%98%E5%8F%A4%E5%AE%9E%E4%B9%A0%E7%94%9F%E6%8B%9B%E8%81%98%E7%AC%94%E8%AF%95%E7%9C%9F%E9%A2%98/4%E8%B5%9B%E9%A9%AC.cpp) `NowCoder`
+
+2. [5245.Joyful.cpp](https://github.com/faxinwang/OJ_HDU/tree/master/math/5245.Joyful.cpp)`HDOJ` `矩阵涂色` `数学期望`
+
+3. [1419.Red_is_good](https://github.com/faxinwang/OJ_HDU/tree/master/math/1419.Red_is_good.cpp)`BZOJ` `数学期望` `递推`
+
+4. [NOI2005.聪聪与可可](https://github.com/faxinwang/OJ_HDU/tree/master/math/NOI2005.聪聪与可可.cpp)`数学期望` `图上dp`
+
+5. [HNOI.期望面积](https://github.com/faxinwang/OJ_HDU/tree/master/math/HNOI.期望面积.cpp)`数学期望` `凸包面积`
+
 
 ## 其他
 
