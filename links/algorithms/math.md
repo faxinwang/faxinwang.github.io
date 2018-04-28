@@ -48,3 +48,5 @@
 4. [I.蒜头君的数轴](https://github.com/faxinwang/OJ_jisuanke/blob/master/contest/1215/I.蒜头君的数轴.cpp)`jisuanke` `前缀GCD` `后缀GCD`
 
 5. [J.整数划分](https://github.com/faxinwang/OJ_jisuanke/blob/master/contest/1215/J.整数划分.cpp)`jisuanke`
+
+6. [D.Fibonacci进制](https://github.com/faxinwang/OJ_NowCoder/tree/master/竞赛/105/D.Fibonacci进制.cpp)`NowCoder` `Fibonacci最小组合`

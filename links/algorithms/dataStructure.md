@@ -104,6 +104,8 @@
 
 29. [1116.计算](https://github.com/faxinwang/HihoCoder/blob/master/dataStructure/1116.%E8%AE%A1%E7%AE%97.cpp)`HihoCoder` `线段树` `前缀积` `后缀积`
 
+30. [H.统计颜色](https://github.com/faxinwang/OJ_NowCoder/tree/master/竞赛/105/H.统计颜色.cpp)`NowCoder` `线段树` `状态压缩` `懒惰标记`
+
 ## 并查集
 
 1. [臭虫也疯狂(解法1)](https://github.com/faxinwang/2017_summer_train/blob/master/5.%E5%B9%B6%E6%9F%A5%E9%9B%86-%E8%87%AD%E8%99%AB%E4%B9%9F%E7%96%AF%E7%8B%82.cpp)`POJ`
@@ -174,8 +176,13 @@
 
 12. [相似的字符串](https://github.com/faxinwang/HihoCoder/blob/master/dataStructure/1709.相似的字符串.cpp)`HihoCoder`
 
+13. [B.String](https://github.com/faxinwang/OJ_NowCoder/tree/master/竞赛/105/B.String.cpp)`NowCoder` `字符矩阵`
+
+
 ## 矩阵
 
 1. [G.旋转矩阵](https://github.com/faxinwang/OJ_NowCoder/blob/master/竞赛/90/G.旋转矩阵.cpp)`NowCoder` `矩阵旋转`
 
 2. [A.矩阵求和](https://github.com/faxinwang/OJ_jisuanke/blob/master/contest/1215/A.矩阵求和.cpp)`jisuanke` `矩阵中心`
+
+3. [G.又见斐波那契](https://github.com/faxinwang/OJ_NowCoder/tree/master/竞赛/105/G.又见斐波那契.cpp)`NowCoder` `矩阵快速幂`

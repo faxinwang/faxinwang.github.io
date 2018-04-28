@@ -28,6 +28,7 @@
 
 4. [353.3D-dungeon](https://github.com/faxinwang/OJ_NYOJ/blob/master/search/353.3D-dungeon.cpp)`NYOJ`
 
+5. [F.maze](https://github.com/faxinwang/OJ_NowCoder/tree/master/竞赛/105/F.maze.cpp)`NowCoder` `含捷径` `优先队列`
 
 ## BinarySearch
 
@@ -44,6 +45,8 @@
 6. [1010. Radix](https://github.com/faxinwang/OJ_PAT/blob/master/2%20advance/1-20/1010.%20Radix%20(25).cpp)`PAT`
 
 7. [3943.K-th_Nya_Number](https://github.com/faxinwang/OJ_HDU/blob/master/dp/3943.K-th_Nya_Number.cpp)`HDU` `数位DP` `二分搜索`
+
+8. [E.吃货](https://github.com/faxinwang/OJ_NowCoder/tree/master/竞赛/105/E.吃货.cpp)`NowCoder`
 
 ## others
 

@@ -81,6 +81,10 @@
 
 8. [1026. Table Tennis](https://github.com/faxinwang/OJ_PAT/blob/master/2%20advance/21%20-%2040/1026.%20Table%20Tennis%20(30)(Right).cpp)`PAT`
 
+9. [C.Boom](https://github.com/faxinwang/OJ_NowCoder/tree/master/竞赛/105/C.Boom.cpp)`NowCoder` `矩形最大重叠次数`
+
+
+
 ## 基础题
 
 1. [1015. Reversible Primes](https://github.com/faxinwang/OJ_PAT/blob/master/2%20advance/1-20/1015.%20Reversible%20Primes%20(20).cpp)`PAT` `素数` `数字翻转`
@@ -98,3 +102,5 @@
 7. [1027. Colors in Mars](https://github.com/faxinwang/OJ_PAT/blob/master/2%20advance/21%20-%2040/1027.%20Colors%20in%20Mars%20(20).cpp)`PAT` `数制转换`
 
 8. [1028. List Sorting](https://github.com/faxinwang/OJ_PAT/blob/master/2%20advance/21%20-%2040/1028.%20List%20Sorting%20(25).cpp)`PAT` `结构体排序`
+
+9. [A.时间统计](https://github.com/faxinwang/OJ_NowCoder/tree/master/竞赛/105/A.时间统计.cpp)`NowCoder`
