@@ -112,6 +112,8 @@
 
 2. [臭虫也疯狂(解法2)](https://github.com/faxinwang/2017_summer_train/blob/master/5.%E5%B9%B6%E6%9F%A5%E9%9B%86-%E8%87%AD%E8%99%AB%E4%B9%9F%E7%96%AF%E7%8B%822.cpp)`POJ`
 
+3. [C.Professional_Manager](https://github.com/faxinwang/OJ_NowCoder/tree/master/contest/106/C.Professional_Manager.cpp) `NowCoder` `集合的合并与拆分`
+
 
 ## 图
 

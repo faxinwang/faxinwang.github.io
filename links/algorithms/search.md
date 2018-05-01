@@ -30,6 +30,8 @@
 
 5. [F.maze](https://github.com/faxinwang/OJ_NowCoder/tree/master/竞赛/105/F.maze.cpp)`NowCoder` `含捷径` `优先队列`
 
+6. [J.Various_Tree](https://github.com/faxinwang/OJ_NowCoder/tree/master/contest/106/J.Various_Tree.cpp)`NowCoder` `状态搜索` `优先级队列`
+
 ## BinarySearch
 
 1. [586.疯牛](https://github.com/faxinwang/OJ_NYOJ/blob/master/greedy/586.%E7%96%AF%E7%89%9B.cpp)`NYOJ` `二分逼近` `最小值尽可能大`
@@ -47,6 +49,8 @@
 7. [3943.K-th_Nya_Number](https://github.com/faxinwang/OJ_HDU/blob/master/dp/3943.K-th_Nya_Number.cpp)`HDU` `数位DP` `二分搜索`
 
 8. [E.吃货](https://github.com/faxinwang/OJ_NowCoder/tree/master/竞赛/105/E.吃货.cpp)`NowCoder`
+
+9. [K.Walking_in_the_Forest](https://github.com/faxinwang/OJ_NowCoder/tree/master/contest/106/K.Walking_in_the_Forest.cpp)`NowCoder` `最大值尽可能小`
 
 ## others
 

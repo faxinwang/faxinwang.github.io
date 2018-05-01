@@ -16,6 +16,8 @@
 
 7. [gcd配对数](https://github.com/faxinwang/2017_summer_train/blob/master/9.%E8%8E%AB%E6%AF%94%E4%B9%8C%E6%96%AF-gcd%E9%85%8D%E5%AF%B9%E6%95%B0.cpp)`HDU` `莫比乌斯反演`
 
+8. [B.Beautiful_Tree_Cutting](https://github.com/faxinwang/OJ_NowCoder/tree/master/contest/106/B.Beautiful_Tree_Cutting.cpp)`NowCoder` `乘法逆元`
+
 ## 计算几何
 
 1. [选房子](https://github.com/faxinwang/2017_summer_train/blob/master/12.%E8%AE%A1%E7%AE%97%E5%87%A0%E4%BD%95-%E9%80%89%E6%88%BF%E5%AD%90.cpp)`HDU` `点与直线`
