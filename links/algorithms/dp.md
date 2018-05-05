@@ -43,3 +43,5 @@
 20. [3652.B-number](https://github.com/faxinwang/OJ_HDU/blob/master/dp/3652.B-number.cpp)`HDU` `数位DP`
 
 21. [3943.K-th_Nya_Number](https://github.com/faxinwang/OJ_HDU/blob/master/dp/3943.K-th_Nya_Number.cpp)`HDU` `数位DP` `二分搜索`
+
+22. [H.程序员的好印象](https://github.com/faxinwang/OJ_NowCoder/tree/master/contest/118/H.程序员的好印象.cpp)`NowCoder` `最长不下降子序列`

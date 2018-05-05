@@ -30,7 +30,11 @@
 
 5. [F.maze](https://github.com/faxinwang/OJ_NowCoder/tree/master/竞赛/105/F.maze.cpp)`NowCoder` `含捷径` `优先队列`
 
-6. [J.Various_Tree](https://github.com/faxinwang/OJ_NowCoder/tree/master/contest/106/J.Various_Tree.cpp)`NowCoder` `状态搜索` `优先级队列`
+6. [J.Various_Tree](https://github.com/faxinwang/OJ_NowCoder/tree/master/contest/106/J.Various_Tree.cpp)`NowCoder` `状态搜索` `优先级队列` `函数指郑数组`
+
+7. [A.PUBG](https://github.com/faxinwang/OJ_NowCoder/tree/master/contest/118/A.PUBG.cpp)`NowCoder`
+
+8. [F.扫雷](https://github.com/faxinwang/OJ_NowCoder/tree/master/contest/118/F.扫雷.cpp)`NowCoder`
 
 ## BinarySearch
 
@@ -61,3 +65,5 @@
 3. [1022. Digital Library](https://github.com/faxinwang/OJ_PAT/blob/master/2%20advance/21%20-%2040/1022.%20Digital%20Library%20(30).cpp)`PAT` `书目检索`
 
 4. [2094.产生冠军](https://github.com/faxinwang/OJ_HDU/blob/master/search/2094.产生冠军.cpp)`HDU`
+
+5. [G.火车上的2连座](https://github.com/faxinwang/OJ_NowCoder/tree/master/contest/118/G.火车上的2连座.cpp)`NowCoder`

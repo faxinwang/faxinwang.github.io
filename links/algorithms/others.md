@@ -83,7 +83,7 @@
 
 9. [C.Boom](https://github.com/faxinwang/OJ_NowCoder/tree/master/竞赛/105/C.Boom.cpp)`NowCoder` `矩形最大重叠次数`
 
-
+10. [D.打篮球](https://github.com/faxinwang/OJ_NowCoder/tree/master/contest/118/D.打篮球.cpp)`NowCoder`
 
 ## 基础题
 
@@ -104,3 +104,5 @@
 8. [1028. List Sorting](https://github.com/faxinwang/OJ_PAT/blob/master/2%20advance/21%20-%2040/1028.%20List%20Sorting%20(25).cpp)`PAT` `结构体排序`
 
 9. [A.时间统计](https://github.com/faxinwang/OJ_NowCoder/tree/master/竞赛/105/A.时间统计.cpp)`NowCoder`
+
+10. [B.precise_math_function](https://github.com/faxinwang/OJ_NowCoder/tree/master/contest/118/B.precise_math_function.cpp)`NowCoder` `PI`
