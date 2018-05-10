@@ -280,17 +280,13 @@ code.language-yaml {
 </tr>
 </tbody>
 </table>
+<h2 class="mume-header" id="learngit">LearnGit</h2>
+
+<p>学习和使用Git时遇到的一些命令,记下了以备后用. <a href="https://github.com/faxinwang/learngit">LearnGit</a></p>
 
       </div>
-      <div class="md-sidebar-toc"><ul>
-<li><a href="#%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0">学习笔记</a>
-<ul>
-<li><a href="#word">word</a></li>
-</ul>
-</li>
-</ul>
-</div>
-      <a id="sidebar-toc-btn">≡</a>
+      
+      
     </body>
     
     
@@ -298,31 +294,5 @@ code.language-yaml {
     
     
     
-    <script>
-(function bindTaskListEvent() {
-  var taskListItemCheckboxes = document.body.getElementsByClassName('task-list-item-checkbox')
-  for (var i = 0; i < taskListItemCheckboxes.length; i++) {
-    var checkbox = taskListItemCheckboxes[i]
-    var li = checkbox.parentElement
-    if (li.tagName !== 'LI') li = li.parentElement
-    if (li.tagName === 'LI') {
-      li.classList.add('task-list-item')
-    }
-  }
-}())    
-</script>
     
-<script>
-
-var sidebarTOCBtn = document.getElementById('sidebar-toc-btn')
-sidebarTOCBtn.addEventListener('click', function(event) {
-  event.stopPropagation()
-  if (document.body.hasAttribute('html-show-sidebar-toc')) {
-    document.body.removeAttribute('html-show-sidebar-toc')
-  } else {
-    document.body.setAttribute('html-show-sidebar-toc', true)
-  }
-})
-</script>
-      
   </html>

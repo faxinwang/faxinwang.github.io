@@ -44,7 +44,7 @@
 
 20. [包含min函数的栈](https://github.com/faxinwang/OJ_NowCoder/blob/master/%E5%89%91%E6%8C%87offer%E7%BC%96%E7%A8%8B%E9%A2%98/20.%E5%8C%85%E5%90%ABmin%E5%87%BD%E6%95%B0%E7%9A%84%E6%A0%88.cpp)
 
-21. [栈的压入,弹出序列](https://github.com/faxinwang/OJ_NowCoder/blob/master/%E5%89%91%E6%8C%87offer%E7%BC%96%E7%A8%8B%E9%A2%98/21.%E6%A0%88%E7%9A%84%E5%8E%8B%E5%85%A5%2C%E5%BC%B9%E5%87%BA%E5%BA%8F%E5%88%97..cpp)
+21. [栈的压入弹出序列](https://github.com/faxinwang/OJ_NowCoder/tree/master/剑指offer编程题/21.栈的压入弹出序列.cpp)
 
 22. [从上往下打印二叉树](https://github.com/faxinwang/OJ_NowCoder/blob/master/%E5%89%91%E6%8C%87offer%E7%BC%96%E7%A8%8B%E9%A2%98/22.%E4%BB%8E%E4%B8%8A%E5%BE%80%E4%B8%8B%E6%89%93%E5%8D%B0%E4%BA%8C%E5%8F%89%E6%A0%91.cpp)
 

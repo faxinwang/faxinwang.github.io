@@ -16,3 +16,7 @@
 |第8章-样式和模板|[HTML](word/第8章-样式和模板.htm)|[PDF](word/第8章-样式和模板.pdf)|
 |第9章-邮件合并与打印|[HTML](word/第9章-邮件合并与打印.htm)|[PDF](word/第9章-邮件合并与打印.pdf)|
 |第10章-不可不会的高级应用|[HTML](word/第10章-不可不会的高级应用.htm)|[PDF](word/第10章-不可不会的高级应用.pdf)|
+
+## LearnGit
+
+学习和使用Git时遇到的一些命令,记下了以备后用. [LearnGit](https://github.com/faxinwang/learngit)

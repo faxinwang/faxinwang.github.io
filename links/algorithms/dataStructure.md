@@ -34,7 +34,7 @@
 
 4. [包含min函数的栈](https://github.com/faxinwang/OJ_NowCoder/blob/master/%E5%89%91%E6%8C%87offer%E7%BC%96%E7%A8%8B%E9%A2%98/20.%E5%8C%85%E5%90%ABmin%E5%87%BD%E6%95%B0%E7%9A%84%E6%A0%88.cpp)`NowCoder`
 
-5. [栈的压入,弹出序列](https://github.com/faxinwang/OJ_NowCoder/blob/master/%E5%89%91%E6%8C%87offer%E7%BC%96%E7%A8%8B%E9%A2%98/21.%E6%A0%88%E7%9A%84%E5%8E%8B%E5%85%A5%2C%E5%BC%B9%E5%87%BA%E5%BA%8F%E5%88%97..cpp)`NowCoder`
+5. [栈的压入弹出序列](https://github.com/faxinwang/OJ_NowCoder/tree/master/剑指offer编程题/21.栈的压入弹出序列.cpp)`NowCoder`
 
 6. [G.合并数字](https://github.com/faxinwang/OJ_jisuanke/blob/master/contest/1215/G.合并数字.cpp)`jisuanke`
 
@@ -168,7 +168,7 @@
 
 7. [1032_最长回文子串(解法一)](https://github.com/faxinwang/HihoCoder/blob/master/dataStructure/1032_%E6%9C%80%E9%95%BF%E5%9B%9E%E6%96%87%E5%AD%90%E4%B8%B2(%E8%A7%A3%E6%B3%95%E4%B8%80).cpp) `HihoCoder`
 
-8. [1032_最长回文子串(解法二)](https://github.com/faxinwang/HihoCoder/blob/master/dataStructure/1032_%E6%9C%80%E9%95%BF%E5%9B%9E%E6%96%87%E5%AD%90%E4%B8%B2(%E8%A7%A3%E6%B3%95%E4%BA%8C).cpp) `HihoCoder`
+8. [1032_最长回文子串(解法二)](https://github.com/faxinwang/HihoCoder/blob/master/dataStructure/1032_%E6%9C%80%E9%95%BF%E5%9B%9E%E6%96%87%E5%AD%90%E4%B8%B2(%E8%A7%A3%E6%B3%95%E4%BA%8C).cpp) `HihoCoder` `manacher`
 
 9. [1052.基因工程](https://github.com/faxinwang/HihoCoder/blob/master/dataStructure/1052.基因工程.cpp) `HihoCoder` `相同前后缀`
 
@@ -180,6 +180,9 @@
 
 13. [B.String](https://github.com/faxinwang/OJ_NowCoder/tree/master/竞赛/105/B.String.cpp)`NowCoder` `字符矩阵`
 
+14. [1260.String_Problem_I](https://github.com/faxinwang/HihoCoder/tree/master/dataStructure/1260.String_Problem_I.cpp)`hihoCoder` `编辑距离`
+
+15. [1261.String_Problem_II](https://github.com/faxinwang/HihoCoder/tree/master/dataStructure/1261.String_Problem_II.cpp)`hihoCoder` `编辑距离`
 
 ## 矩阵
 

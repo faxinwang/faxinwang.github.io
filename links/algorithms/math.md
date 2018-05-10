@@ -18,6 +18,10 @@
 
 8. [B.Beautiful_Tree_Cutting](https://github.com/faxinwang/OJ_NowCoder/tree/master/contest/106/B.Beautiful_Tree_Cutting.cpp)`NowCoder` `乘法逆元`
 
+9. [1195.高斯消元一](https://github.com/faxinwang/HihoCoder/blob/master/math/1195.高斯消元一.cpp)`hihoCoder`
+
+10. [1196.高斯消元二](https://github.com/faxinwang/HihoCoder/blob/master/math/1196.高斯消元二.cpp)`hihoCoder`
+
 ## 计算几何
 
 1. [选房子](https://github.com/faxinwang/2017_summer_train/blob/master/12.%E8%AE%A1%E7%AE%97%E5%87%A0%E4%BD%95-%E9%80%89%E6%88%BF%E5%AD%90.cpp)`HDU` `点与直线`
