@@ -44,6 +44,8 @@
 
 2. [B.幸运数字II](https://github.com/faxinwang/OJ_NowCoder/blob/master/%E7%AB%9E%E8%B5%9B/%E7%BB%83%E4%B9%A0%E8%B5%9B13/B.%E5%B9%B8%E8%BF%90%E6%95%B0%E5%AD%97II.cpp)`NowCoder` `二叉树层序遍历的应用`
 
+3. [最小化价格](https://github.com/faxinwang/OJ_NowCoder/tree/master/contest/112/A.cpp)`NowCoder` `优先级队列` `最优分配`
+
 ## 树&二叉树
 
 1. [63.小猴子下落](https://github.com/faxinwang/OJ_NYOJ/blob/master/data_structure/63.%E5%B0%8F%E7%8C%B4%E5%AD%90%E4%B8%8B%E8%90%BD.cpp)`NYOJ`
@@ -191,3 +193,5 @@
 2. [A.矩阵求和](https://github.com/faxinwang/OJ_jisuanke/blob/master/contest/1215/A.矩阵求和.cpp)`jisuanke` `矩阵中心`
 
 3. [G.又见斐波那契](https://github.com/faxinwang/OJ_NowCoder/tree/master/竞赛/105/G.又见斐波那契.cpp)`NowCoder` `矩阵快速幂`
+
+4. [数列求值](https://github.com/faxinwang/OJ_jisuanke/tree/master/contest/1340/D.cpp)`JiSuanKe` `矩阵快速幂`

@@ -22,6 +22,18 @@
 
 10. [1196.高斯消元二](https://github.com/faxinwang/HihoCoder/blob/master/math/1196.高斯消元二.cpp)`hihoCoder`
 
+11. [1287.数论一Miller-Rabin质数测试](https://github.com/faxinwang/HihoCoder/tree/master/math/1287.数论一Miller-Rabin质数测试.cpp)`hihoCoder`
+
+12. [1295.数论二Eular质数筛法](https://github.com/faxinwang/HihoCoder/tree/master/math/1295.数论二Eular质数筛法.cpp)`hihoCoder`
+
+13. [1296.数论三约瑟夫问题](https://github.com/faxinwang/HihoCoder/tree/master/math/1296.数论三约瑟夫问题.cpp)`hihoCoder`
+
+14. [1297.数论四扩展欧几里德](https://github.com/faxinwang/HihoCoder/tree/master/math/1297.数论四扩展欧几里德.cpp)`hihoCoder`
+
+15. [1298.数论五欧拉函数](https://github.com/faxinwang/HihoCoder/tree/master/math/1298.数论五欧拉函数.cpp)`hihoCoder` `欧拉函数筛`
+
+16. [1303.数论六·模线性方程组](https://github.com/faxinwang/HihoCoder/tree/master/math/1303.数论六·模线性方程组.cpp)`hihoCoder` `中国剩余定理`
+
 ## 计算几何
 
 1. [选房子](https://github.com/faxinwang/2017_summer_train/blob/master/12.%E8%AE%A1%E7%AE%97%E5%87%A0%E4%BD%95-%E9%80%89%E6%88%BF%E5%AD%90.cpp)`HDU` `点与直线`
@@ -56,3 +68,5 @@
 5. [J.整数划分](https://github.com/faxinwang/OJ_jisuanke/blob/master/contest/1215/J.整数划分.cpp)`jisuanke`
 
 6. [D.Fibonacci进制](https://github.com/faxinwang/OJ_NowCoder/tree/master/竞赛/105/D.Fibonacci进制.cpp)`NowCoder` `Fibonacci最小组合`
+
+7. [出队](https://github.com/faxinwang/OJ_NowCoder/tree/master/contest/112/C.cpp)`NowCoder` `特殊约瑟夫问题`

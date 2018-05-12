@@ -43,3 +43,5 @@
 21. [891.找点](https://github.com/faxinwang/OJ_NYOJ/blob/master/greedy/891.%E6%89%BE%E7%82%B9(%E5%8C%BA%E9%97%B4%E9%80%89%E7%82%B9%E9%97%AE%E9%A2%98).cpp)`NYOJ` `区间选点`
 
 22. [915.+-字符串](https://github.com/faxinwang/OJ_NYOJ/blob/master/greedy/915.%2B-%E5%AD%97%E7%AC%A6%E4%B8%B2.cpp)`NYOJ`
+
+23. [车辆安排](https://github.com/faxinwang/OJ_NowCoder/tree/master/contest/112/B.cpp)`NowCoder` `最小化分配`
