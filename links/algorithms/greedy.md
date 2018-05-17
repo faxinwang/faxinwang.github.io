@@ -45,3 +45,5 @@
 22. [915.+-字符串](https://github.com/faxinwang/OJ_NYOJ/blob/master/greedy/915.%2B-%E5%AD%97%E7%AC%A6%E4%B8%B2.cpp)`NYOJ`
 
 23. [车辆安排](https://github.com/faxinwang/OJ_NowCoder/tree/master/contest/112/B.cpp)`NowCoder` `最小化分配`
+
+24. [3253.Fence_Repair](https://github.com/faxinwang/OJ_POJ/blob/master/greedy/3253.Fence_Repair.cpp)`POJ` `优先队列`

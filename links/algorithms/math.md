@@ -34,6 +34,8 @@
 
 16. [1303.数论六·模线性方程组](https://github.com/faxinwang/HihoCoder/tree/master/math/1303.数论六·模线性方程组.cpp)`hihoCoder` `中国剩余定理`
 
+17. [1808.Quadratic_Residues](https://github.com/faxinwang/OJ_POJ/blob/master/math/1808.Quadratic_Residues.cpp)`POJ` `平方剩余`
+
 ## 计算几何
 
 1. [选房子](https://github.com/faxinwang/2017_summer_train/blob/master/12.%E8%AE%A1%E7%AE%97%E5%87%A0%E4%BD%95-%E9%80%89%E6%88%BF%E5%AD%90.cpp)`HDU` `点与直线`
