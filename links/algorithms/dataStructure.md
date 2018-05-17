@@ -152,11 +152,11 @@
 
 20. [B.道路建设](https://github.com/faxinwang/OJ_NowCoder/blob/master/竞赛/2018年全国多校算法寒假训练营练习赛/第四场/B.道路建设.cpp)`NowCoder` `最小生成树` `kurskal`
 
-21. [1097.最小生成树一Prim算法](https://github.com/faxinwang/HihoCoder/blob/master/dataStructure/1097.1097.最小生成树一Prim算法.cpp)`HihoCoder` `最小生成树` `prim`
+21. [1097.最小生成树一Prim算法](https://github.com/faxinwang/HihoCoder/blob/master/dataStructure/1097.最小生成树一Prim算法.cpp)`HihoCoder` `最小生成树` `prim`
 
-22. [1098.最小生成树二Kruscal算法](https://github.com/faxinwang/HihoCoder/blob/master/dataStructure/1098.1098.最小生成树二Kruscal算法.cpp)`HihoCoder` `最小生成树` `kruskal`
+22. [1098.最小生成树二Kruscal算法](https://github.com/faxinwang/HihoCoder/blob/master/dataStructure/1098.最小生成树二Kruscal算法.cpp)`HihoCoder` `最小生成树` `kruskal`
 
-23. [1109.最小生成树三堆优化的Prim算法](https://github.com/faxinwang/HihoCoder/blob/master/dataStructure/1109.1109.最小生成树三堆优化的Prim算法.cpp)`HihoCoder` `最小生成树` `prim` `堆优化`
+23. [1109.最小生成树三堆优化的Prim算法](https://github.com/faxinwang/HihoCoder/blob/master/dataStructure/1109.最小生成树三堆优化的Prim算法.cpp)`HihoCoder` `最小生成树` `prim` `堆优化`
 
 ## 字符串
 
