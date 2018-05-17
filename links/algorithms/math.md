@@ -32,7 +32,7 @@
 
 15. [1298.数论五欧拉函数](https://github.com/faxinwang/HihoCoder/tree/master/math/1298.数论五欧拉函数.cpp)`hihoCoder` `欧拉函数筛`
 
-16. [1303.数论六·模线性方程组](https://github.com/faxinwang/HihoCoder/tree/master/math/1303.数论六·模线性方程组.cpp)`hihoCoder` `中国剩余定理`
+16. [1303.数论六模线性方程组](https://github.com/faxinwang/HihoCoder/tree/master/math/1303.数论六模线性方程组.cpp)`hihoCoder` `中国剩余定理`
 
 17. [1808.Quadratic_Residues](https://github.com/faxinwang/OJ_POJ/blob/master/math/1808.Quadratic_Residues.cpp)`POJ` `平方剩余`
 
