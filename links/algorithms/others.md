@@ -50,7 +50,6 @@
 
 23. [判断一个序列是否是某个BST的后续遍历序列](https://github.com/faxinwang/OJ_NowCoder/blob/master/%E5%89%91%E6%8C%87offer%E7%BC%96%E7%A8%8B%E9%A2%98/23.%E5%88%A4%E6%96%AD%E4%B8%80%E4%B8%AA%E5%BA%8F%E5%88%97%E6%98%AF%E5%90%A6%E6%98%AF%E6%9F%90%E4%B8%AABST%E7%9A%84%E5%90%8E%E7%BB%AD%E9%81%8D%E5%8E%86%E5%BA%8F%E5%88%97.cpp)
 
-
 ## 博弈论
 
 1. [取石子](https://github.com/faxinwang/2017_summer_train/blob/master/11.%E5%8D%9A%E5%BC%88-%20%E5%8F%96%E7%9F%B3%E5%A4%B4.cpp)`HDU`
@@ -84,6 +83,26 @@
 9. [C.Boom](https://github.com/faxinwang/OJ_NowCoder/tree/master/竞赛/105/C.Boom.cpp)`NowCoder` `矩形最大重叠次数`
 
 10. [D.打篮球](https://github.com/faxinwang/OJ_NowCoder/tree/master/contest/118/D.打篮球.cpp)`NowCoder`
+
+## 奇淫巧技
+
+1. [3061.Subsequence.cpp](https://github.com/faxinwang/OJ_POJ/blob/master/others/3061.Subsequence.cpp)`POJ` `TLE` `O(N^2)`
+
+2. [3061.Subsequence(2)](https://github.com/faxinwang/OJ_POJ/blob/master/others/3061.Subsequence(2).cpp)`POJ` `二分搜索` `O(NLogN)`
+
+3. [3061.Subsequence(3)](https://github.com/faxinwang/OJ_POJ/blob/master/others/3061.Subsequence(3).cpp)`POJ` `尺取法` `O(N)`
+
+4. [3320.Jessica's_Reading_Problem](https://github.com/faxinwang/OJ_POJ/blob/master/others/3320.Jessica's_Reading_Problem.cpp)`POJ` `尺取法`
+
+5. [3276.Face_The_Right_Way](https://github.com/faxinwang/OJ_POJ/blob/master/others/3276.Face_The_Right_Way.cpp)`POJ` `开关问题`
+
+6. [3279.Fliptile.cpp](https://github.com/faxinwang/OJ_POJ/blob/master/others/3279.Fliptile.cpp)`POJ` `开关问题` `集合的整数表示`
+
+7. [1196.高斯消元二](https://github.com/faxinwang/HihoCoder/blob/master/others/1196.高斯消元二.cpp)`HihoCoder` `开关问题`
+
+8. [2104.K-th_Number](https://github.com/faxinwang/OJ_POJ/blob/master/others/2104.K-th_Number.cpp)`POJ` `分桶法` `平方分割` `二分搜索` `区间第k小`
+
+9. [2104.K-th_Number(2)](https://github.com/faxinwang/OJ_POJ/blob/master/others/2104.K-th_Number(2).cpp)`POJ` `线段树` `区间第k小`
 
 ## 基础题
 

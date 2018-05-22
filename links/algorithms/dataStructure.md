@@ -88,17 +88,23 @@
 
 20. [1069.最近公共祖先三](https://github.com/faxinwang/HihoCoder/blob/master/dataStructure/1069.%E6%9C%80%E8%BF%91%E5%85%AC%E5%85%B1%E7%A5%96%E5%85%88%E4%B8%89.cpp)`HihoCoder` `RMQ-ST` `DFS` `树转数组`
 
-21. [1077.RMQ问题再临-线段树](https://github.com/faxinwang/HihoCoder/blob/master/dataStructure/1077.RMQ%E9%97%AE%E9%A2%98%E5%86%8D%E4%B8%B4-%E7%BA%BF%E6%AE%B5%E6%A0%91.cpp)`线段树` `RMQ` `单点插入`
+21. [1077.RMQ问题再临-线段树](https://github.com/faxinwang/HihoCoder/blob/master/dataStructure/1077.RMQ%E9%97%AE%E9%A2%98%E5%86%8D%E4%B8%B4-%E7%BA%BF%E6%AE%B5%E6%A0%91.cpp)`HihoCoder` `线段树` `RMQ` `单点插入`
 
-22. [1078.线段树的区间修改](https://github.com/faxinwang/HihoCoder/blob/master/dataStructure/1078.%E7%BA%BF%E6%AE%B5%E6%A0%91%E7%9A%84%E5%8C%BA%E9%97%B4%E4%BF%AE%E6%94%B9.cpp) `线段树` `区间修改`
+22. [1078.线段树的区间修改](https://github.com/faxinwang/HihoCoder/blob/master/dataStructure/1078.%E7%BA%BF%E6%AE%B5%E6%A0%91%E7%9A%84%E5%8C%BA%E9%97%B4%E4%BF%AE%E6%94%B9.cpp)`HihoCoder` `线段树` `区间修改`
 
-23. [1079.离散化](https://github.com/faxinwang/HihoCoder/blob/master/dataStructure/1079.%E7%A6%BB%E6%95%A3%E5%8C%96.cpp) `线段树` `区间修改` `离散化`
+23. [1079.离散化](https://github.com/faxinwang/HihoCoder/blob/master/dataStructure/1079.%E7%A6%BB%E6%95%A3%E5%8C%96.cpp)`HihoCoder` `线段树` `区间修改` `离散化`
 
-24. [1080.更为复杂的买卖房屋姿势](https://github.com/faxinwang/HihoCoder/blob/master/dataStructure/1080.%E6%9B%B4%E4%B8%BA%E5%A4%8D%E6%9D%82%E7%9A%84%E4%B9%B0%E5%8D%96%E6%88%BF%E5%B1%8B%E5%A7%BF%E5%8A%BF.cpp)`线段树` `区间修改` `懒惰标记`
+24. [1080.更为复杂的买卖房屋姿势](https://github.com/faxinwang/HihoCoder/blob/master/dataStructure/1080.%E6%9B%B4%E4%B8%BA%E5%A4%8D%E6%9D%82%E7%9A%84%E4%B9%B0%E5%8D%96%E6%88%BF%E5%B1%8B%E5%A7%BF%E5%8A%BF.cpp)`HihoCoder` `线段树` `区间修改` `懒惰更新`
 
 25. [1116.计算](https://github.com/faxinwang/HihoCoder/blob/master/dataStructure/1116.%E8%AE%A1%E7%AE%97.cpp)`HihoCoder` `线段树` `前缀积` `后缀积`
 
-26. [H.统计颜色](https://github.com/faxinwang/OJ_NowCoder/tree/master/竞赛/105/H.统计颜色.cpp)`NowCoder` `线段树` `状态压缩` `懒惰标记`
+26. [H.统计颜色](https://github.com/faxinwang/OJ_NowCoder/tree/master/竞赛/105/H.统计颜色.cpp)`NowCoder` `线段树` `状态压缩` `懒惰更新` `区间查询` `区间更新`
+
+27. [3468.A_Simple_Problem_with_Integers](https://github.com/faxinwang/OJ_POJ/blob/master/dataStructure/3468.A_Simple_Problem_with_Integers.cpp)`POJ` `线段树` `懒惰更新` `区间求和` `区间更新`
+
+28. [3468.A_Simple_Problem_with_Integers(2)](https://github.com/faxinwang/OJ_POJ/blob/master/dataStructure/3468.A_Simple_Problem_with_Integers(2).cpp)`POJ` `树状数组` `区间求和` `区间更新`
+
+29. [2104.K-th_Number(2)](https://github.com/faxinwang/OJ_POJ/blob/master/others/2104.K-th_Number(2).cpp)`POJ` `线段树` `区间第k小`
 
 ## 并查集
 
@@ -157,6 +163,10 @@
 22. [1098.最小生成树二Kruscal算法](https://github.com/faxinwang/HihoCoder/blob/master/dataStructure/1098.最小生成树二Kruscal算法.cpp)`HihoCoder` `最小生成树` `kruskal`
 
 23. [1109.最小生成树三堆优化的Prim算法](https://github.com/faxinwang/HihoCoder/blob/master/dataStructure/1109.最小生成树三堆优化的Prim算法.cpp)`HihoCoder` `最小生成树` `prim` `堆优化`
+
+24. [3255.Roadblocks](https://github.com/faxinwang/OJ_POJ/blob/master/dataStructure/3255.Roadblocks.cpp)`POJ` `次短路` `dijkstra`
+
+25. [3723.Conscription](https://github.com/faxinwang/OJ_POJ/blob/master/dataStructure/3723.Conscription.cpp)`POJ` `最小生成树` `最大权森林`
 
 ## 字符串
 

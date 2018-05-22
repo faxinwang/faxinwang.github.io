@@ -58,6 +58,16 @@
 
 10. [最小化价格](https://github.com/faxinwang/OJ_NowCoder/tree/master/contest/112/A(2).cpp)`NowCoder` `最优分配`
 
+11. [1064.Cable_master](https://github.com/faxinwang/OJ_POJ/blob/master/search/1064.Cable_master.cpp)`POJ` `最小值尽可能大`
+
+12. [2456.Aggressive_cows](https://github.com/faxinwang/OJ_POJ/blob/master/search/2456.Aggressive_cows.cpp)`POJ` `最小值尽可能大`
+
+13. [2785.4_Values_whose_Sum_is_0](https://github.com/faxinwang/OJ_POJ/tree/master/search/2785.4_Values_whose_Sum_is_0.cpp)`POJ` `折半枚举` `双向搜索`
+
+14. [1091.还是01背包](https://github.com/faxinwang/OJ_NYOJ/blob/master/search/1091.还是01背包.cpp)`NYOJ` `折半枚举` `双向搜索` `超大背包问题`
+
+15. [3061.Subsequence(2)](https://github.com/faxinwang/OJ_POJ/blob/master/others/3061.Subsequence(2).cpp)`POJ` `前缀和`
+
 ## others
 
 1. [二维数组中的查找](https://github.com/faxinwang/OJ_NowCoder/blob/master/%E5%89%91%E6%8C%87offer%E7%BC%96%E7%A8%8B%E9%A2%98/1.%E4%BA%8C%E7%BB%B4%E6%95%B0%E7%BB%84%E4%B8%AD%E7%9A%84%E6%9F%A5%E6%89%BE.cpp)`NowCoder` `二维查找`
