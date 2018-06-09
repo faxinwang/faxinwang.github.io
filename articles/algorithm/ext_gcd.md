@@ -22,7 +22,7 @@ int ext_gcd(int a,int b, int &x ,int &y)
 }
 ```
 
-通常要求的是 $ax+by=n$的一组解,设c=gcd(a,b), 我们一般会先通过gxt_gcd()函数求出
+通常要求的是 $ax+by=n$的一组解,设c=gcd(a,b), 我们一般会先通过ext_gcd()函数求出
 $ax+by=c$的一组解$(x_0,y_0)$使得$ax_0+by_0=c$, 然后判断n是否能被c整除, 如果不可以
 整除,则原方程无解. 否则, 令$k=n/c$,则$a\cdot kx_0 + b\cdot ky_0=kc=n$,此时$(kx_0,ky_0)$
 即为原方程的解, 实际上, 从$(x_0,y_0)$我们扩展出了解系:
