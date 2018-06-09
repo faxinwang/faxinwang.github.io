@@ -305,6 +305,7 @@ code.language-yaml {
 </ul>
 </li>
 <li>归并排序</li>
+<li>计数排序</li>
 <li>基数排序</li>
 <li>桶排序</li>
 </ul>
@@ -383,23 +384,17 @@ code.language-yaml {
 <br></p>
 </li>
 </ul>
+<h2 class="mume-header" id="%E9%9A%8F%E4%BE%BF%E5%86%99%E5%86%99">随便写写</h2>
+
+<ol>
+<li><a href="articles/algorithm/ext_gcd.html">如何理解扩展欧几里得算法中解系的最小间距</a></li>
+</ol>
 <h2 class="mume-header" id="%E5%85%B6%E4%BB%96%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0noteindexhtml"><a href="note/index.html">其他学习笔记</a></h2>
 
 
       </div>
-      <div class="md-sidebar-toc"><ul>
-<li><a href="#%E7%8E%8B%E5%8F%91%E6%96%B0%E7%9A%84%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2httpsfaxinwanggithubio">王发新的个人博客</a>
-<ul>
-<li><a href="#%E7%AE%97%E6%B3%95">算法</a></li>
-<li><a href="#%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84">数据结构</a></li>
-<li><a href="#%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F">设计模式</a></li>
-<li><a href="#app">APP</a></li>
-<li><a href="#%E5%85%B6%E4%BB%96%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0noteindexhtml">其他学习笔记</a></li>
-</ul>
-</li>
-</ul>
-</div>
-      <a id="sidebar-toc-btn">≡</a>
+      
+      
     </body>
     
     
@@ -407,31 +402,5 @@ code.language-yaml {
     
     
     
-    <script>
-(function bindTaskListEvent() {
-  var taskListItemCheckboxes = document.body.getElementsByClassName('task-list-item-checkbox')
-  for (var i = 0; i < taskListItemCheckboxes.length; i++) {
-    var checkbox = taskListItemCheckboxes[i]
-    var li = checkbox.parentElement
-    if (li.tagName !== 'LI') li = li.parentElement
-    if (li.tagName === 'LI') {
-      li.classList.add('task-list-item')
-    }
-  }
-}())    
-</script>
     
-<script>
-
-var sidebarTOCBtn = document.getElementById('sidebar-toc-btn')
-sidebarTOCBtn.addEventListener('click', function(event) {
-  event.stopPropagation()
-  if (document.body.hasAttribute('html-show-sidebar-toc')) {
-    document.body.removeAttribute('html-show-sidebar-toc')
-  } else {
-    document.body.setAttribute('html-show-sidebar-toc', true)
-  }
-})
-</script>
-      
   </html>

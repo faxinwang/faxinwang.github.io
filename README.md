@@ -54,6 +54,7 @@
     * 插入排序
     * 希尔排序
   * 归并排序
+  * 计数排序
   * 基数排序
   * 桶排序
 
@@ -109,5 +110,9 @@
 
 * 遗传算法解TSP: [TSPGA](https://github.com/faxinwang/TSPGA)
 <br>
+
+## 随便写写
+
+1. [如何理解扩展欧几里得算法中解系的最小间距](articles/algorithm/ext_gcd.html)
 
 ## [其他学习笔记](note/index.html)
