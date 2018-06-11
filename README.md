@@ -115,4 +115,6 @@
 
 1. [如何理解扩展欧几里得算法中解系的最小间距](articles/algorithm/ext_gcd.html)
 
+2. [中国剩余定理详解](articles/algorithm/china_remain.html)
+
 ## [其他学习笔记](note/index.html)
