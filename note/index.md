@@ -17,6 +17,12 @@
 |第9章-邮件合并与打印|[HTML](word/第9章-邮件合并与打印.htm)|[PDF](word/第9章-邮件合并与打印.pdf)|
 |第10章-不可不会的高级应用|[HTML](word/第10章-不可不会的高级应用.htm)|[PDF](word/第10章-不可不会的高级应用.pdf)|
 
-## LearnGit
+## Git
 
 学习和使用Git时遇到的一些命令,记下了以备后用. [LearnGit](https://github.com/faxinwang/learngit)
+
+## 考研数学
+
+1. [高数](math/index.html)
+2. [线代]
+3. [概统]
