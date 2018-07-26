@@ -35,13 +35,13 @@
   * [稀疏矩阵](https://github.com/faxinwang/DataStructure/blob/master/cpp/Matrixs/MatrixTriple.hpp)
 
 * 树
-  * [二叉树](https://github.com/faxinwang/DataStructure/blob/master/cpp/Tree/BinTree.hpp)
+  * [二叉树](https://github.com/faxinwang/DataStructure/blob/master/cpp/Tree/BinaryTree/BinaryTree.hpp)
   * [二叉查找树](https://github.com/faxinwang/DataStructure/blob/master/cpp/Tree/BST.hpp)
   * [二叉平衡树]
 
 * 图
-  * [链接矩阵](https://github.com/faxinwang/DataStructure/blob/master/cpp/Graph/MatrixGraph.hpp)
-  * [链接表]
+  * [链接矩阵实现](https://github.com/faxinwang/DataStructure/blob/master/cpp/Graph/MatrixGraph.hpp)
+  * [链接表实现]
 
 * 排序
   * 交换类
