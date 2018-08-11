@@ -20,27 +20,27 @@
 ## 数据结构
 
 * 线性表
-  * [顺序表Vector](https://github.com/faxinwang/DataStructure/blob/master/cpp/Vector/Vector.hpp)
-  * [双链表DLList](https://github.com/faxinwang/DataStructure/blob/master/cpp/List/DLList.hpp)
+  * [顺序表 Vector](https://github.com/faxinwang/DataStructure/blob/master/cpp/Vector)
+  * [双链表 DLList](https://github.com/faxinwang/DataStructure/blob/master/cpp/List)
 
 * 栈
-  * [栈适配器](https://github.com/faxinwang/DataStructure/blob/master/cpp/Stack/Stack.hpp)
+  * [栈适配器 Stack](https://github.com/faxinwang/DataStructure/blob/master/cpp/Stack)
 
 * 队列
-  * [队列适配器](https://github.com/faxinwang/DataStructure/blob/master/cpp/Queue/Queue.hpp)
-  * [循环队列](https://github.com/faxinwang/DataStructure/blob/master/cpp/Queue/CircularQueue.hpp)
+  * [队列适配器 Queue](https://github.com/faxinwang/DataStructure/blob/master/cpp/Queue)
+  * [循环队列 CircularQueue](https://github.com/faxinwang/DataStructure/blob/master/cpp/Queue)
 
 * 矩阵
-  * [矩阵](https://github.com/faxinwang/DataStructure/blob/master/cpp/Matrixs/Matrix.hpp)
-  * [稀疏矩阵](https://github.com/faxinwang/DataStructure/blob/master/cpp/Matrixs/MatrixTriple.hpp)
+  * [矩阵 Matrix](https://github.com/faxinwang/DataStructure/blob/master/cpp/Matrixs)
+  * [稀疏矩阵 SparseMatrix](https://github.com/faxinwang/DataStructure/blob/master/cpp/Matrixs)
 
 * 树
-  * [二叉树](https://github.com/faxinwang/DataStructure/blob/master/cpp/Tree/BinaryTree/BinaryTree.hpp)
-  * [二叉查找树](https://github.com/faxinwang/DataStructure/blob/master/cpp/Tree/BST.hpp)
-  * [二叉平衡树]
+  * [二叉树 BinaryTree](https://github.com/faxinwang/DataStructure/blob/master/cpp/Tree/BinaryTree)
+  * [二叉查找树 BST](https://github.com/faxinwang/DataStructure/blob/master/cpp/Tree/BST)
+  * [平衡二叉查找树 AVLTree](https://github.com/faxinwang/DataStructure/tree/master/cpp/Tree/AVLTree)
 
 * 图
-  * [链接矩阵实现](https://github.com/faxinwang/DataStructure/blob/master/cpp/Graph/MatrixGraph.hpp)
+  * [链接矩阵实现 MatrixGraph](https://github.com/faxinwang/DataStructure/blob/master/cpp/Graph)
   * [链接表实现]
 
 * 排序
