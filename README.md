@@ -17,7 +17,7 @@
 
 * [其他](links/algorithms/others.html)
 
-## 数据结构
+## [数据结构](https://github.com/faxinwang/DataStructure)
 
 * 线性表
   * [顺序表 Vector](https://github.com/faxinwang/DataStructure/blob/master/cpp/Vector)
@@ -44,21 +44,19 @@
   * [链接表实现]
 
 * 排序
-  * 交换类
-    * 冒泡排序
-    * 快速排序
-  * 选择类
-    * 选择排序
-    * 堆排序
-  * 插入类
-    * 插入排序
-    * 希尔排序
-  * 归并排序
-  * 计数排序
-  * 基数排序
-  * 桶排序
+  |序号|排序方法|最坏情况|最优情况|稳定性|
+  |:--:|:-----:|:-----:|:-----:|:-----:|
+  |1|冒泡排序|----|----|----|
+  |2|选择排序|----|----|----|
+  |3|插入排序|----|----|----|
+  |4|希尔排序|----|----|----|
+  |5|快速排序|----|----|----|
+  |6|堆排序  |----|----|----|
+  |7|归并排序|----|----|----|
+  |8|计数排序|----|----|----|
+  |9|基数排序|----|----|----|
 
-## 设计模式
+## [设计模式](https://github.com/faxinwang/JavaNote/tree/master/DesignPattern)
 
 * 创建型模式
   * [单例模式](https://github.com/faxinwang/JavaNote/tree/master/DesignPattern/Singleton)
