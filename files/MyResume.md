@@ -46,7 +46,6 @@
 * 小游戏连连看: [LLK](https://github.com/faxinwang/LLK)
 * 小游戏2048: [My2048](https://github.com/faxinwang/My2048)
 
-
 ### 资格证书
 
 1. 通过软考中级 - 软件设计师，具有一定的软件设计和分析能力。
