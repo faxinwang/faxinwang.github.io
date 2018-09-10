@@ -31,6 +31,13 @@
 3. [201703-3.Markdown](https://github.com/faxinwang/OJ_CCF/blob/master/201703/201703-3.Markdown.cpp) `这是写过的类最多的题`
 4. [201703-4.地铁修建](https://github.com/faxinwang/OJ_CCF/blob/master/201703/201703-4.地铁修建.cpp) `并查集`
 
+>2016年12月
+
+1. [201612-1.中间数](https://github.com/faxinwang/OJ_CCF/blob/master/201612/201612-1.中间数.cpp)
+2. [201612-2.工资计算](https://github.com/faxinwang/OJ_CCF/blob/master/201612/201612-2.工资计算.cpp) `分段函数`
+3. [201612-3.权限查询](https://github.com/faxinwang/OJ_CCF/blob/master/201612/201612-3.权限查询.cpp)
+4. [201612-4.压缩编码](https://github.com/faxinwang/OJ_CCF/blob/master/201612/201612-4.压缩编码.cpp) `取石子问题`
+
 ## 剑指offer_编程题
 
 >测试程序的鲁棒性, 源于NowCoder在线编程
