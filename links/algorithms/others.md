@@ -38,6 +38,14 @@
 3. [201612-3.权限查询](https://github.com/faxinwang/OJ_CCF/blob/master/201612/201612-3.权限查询.cpp)
 4. [201612-4.压缩编码](https://github.com/faxinwang/OJ_CCF/blob/master/201612/201612-4.压缩编码.cpp) `取石子问题`
 
+>2016年9月
+
+1. [201609-1.最大波动](https://github.com/faxinwang/OJ_CCF/blob/master/201609/201609-1.最大波动.cpp)
+2. [201609-2.火车购票](https://github.com/faxinwang/OJ_CCF/blob/master/201609/201609-2.火车购票.cpp)
+3. [201609-3.炉石传说](https://github.com/faxinwang/OJ_CCF/blob/master/201609/201609-3.炉石传说.cpp)
+4. [201609-4.交通规则](https://github.com/faxinwang/OJ_CCF/blob/master/201609/201609-4.交通规则.cpp) `dijkstra变形`
+
+
 ## 剑指offer_编程题
 
 >测试程序的鲁棒性, 源于NowCoder在线编程
