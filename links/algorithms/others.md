@@ -150,6 +150,8 @@
 
 9. [2104.K-th_Number(2)](https://github.com/faxinwang/OJ_POJ/blob/master/others/2104.K-th_Number(2).cpp)`POJ` `线段树` `区间第k小`
 
+10. [_3295_Tautology](https://github.com/faxinwang/OJ_POJ/blob/master/others/_3295_Tautology.cpp)`表达式求值` `构造法`
+
 ## 基础题
 
 1. [1015. Reversible Primes](https://github.com/faxinwang/OJ_PAT/blob/master/2%20advance/1-20/1015.%20Reversible%20Primes%20(20).cpp)`PAT` `素数` `数字翻转`

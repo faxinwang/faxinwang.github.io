@@ -36,6 +36,10 @@
 
 17. [1808.Quadratic_Residues](https://github.com/faxinwang/OJ_POJ/blob/master/math/1808.Quadratic_Residues.cpp)`POJ` `平方剩余`
 
+18. [4651.Partition](https://github.com/faxinwang/OJ_HDU/blob/master/math/4651.Partition.cpp) `HDU` `数拆分`
+
+19. [4658.Integer_Partition](https://github.com/faxinwang/OJ_HDU/blob/master/math/4658.Integer_Partition.cpp) `HDU` `数拆分` `重数不超过k`
+
 ## 计算几何
 
 1. [选房子](https://github.com/faxinwang/2017_summer_train/blob/master/12.%E8%AE%A1%E7%AE%97%E5%87%A0%E4%BD%95-%E9%80%89%E6%88%BF%E5%AD%90.cpp)`HDU` `点与直线`

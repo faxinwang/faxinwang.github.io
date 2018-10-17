@@ -168,6 +168,8 @@
 
 25. [3723.Conscription](https://github.com/faxinwang/OJ_POJ/blob/master/dataStructure/3723.Conscription.cpp)`POJ` `最小生成树` `最大权森林`
 
+26. [3041.Asteroids](https://github.com/faxinwang/OJ_POJ/blob/master/dataStructure/_3041_Asteroids.cpp)`二分图` `最大匹配数`
+
 ## 字符串
 
 1. [5.BinaryStringMatching](https://github.com/faxinwang/OJ_NYOJ/blob/master/data_structure/5.BinaryStringMatching.cpp)`NYOJ` `子串匹配`
@@ -199,6 +201,8 @@
 14. [1260.String_Problem_I](https://github.com/faxinwang/HihoCoder/tree/master/dataStructure/1260.String_Problem_I.cpp)`hihoCoder` `编辑距离`
 
 15. [1261.String_Problem_II](https://github.com/faxinwang/HihoCoder/tree/master/dataStructure/1261.String_Problem_II.cpp)`hihoCoder` `编辑距离`
+
+16. [1002.487-3279](https://github.com/faxinwang/OJ_POJ/blob/master/dataStructure/_1002_487-3279.cpp) `POJ` `字符映射`
 
 ## 矩阵
 

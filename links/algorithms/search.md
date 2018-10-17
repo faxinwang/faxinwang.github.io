@@ -68,6 +68,8 @@
 
 15. [3061.Subsequence(2)](https://github.com/faxinwang/OJ_POJ/blob/master/others/3061.Subsequence(2).cpp)`POJ` `前缀和`
 
+16. [_2109_Power_of_Cryptograph](https://github.com/faxinwang/OJ_POJ/blob/master/math/_2109_Power_of_Cryptography.java)`POJ` `二分查找+高精度`
+
 ## others
 
 1. [二维数组中的查找](https://github.com/faxinwang/OJ_NowCoder/blob/master/%E5%89%91%E6%8C%87offer%E7%BC%96%E7%A8%8B%E9%A2%98/1.%E4%BA%8C%E7%BB%B4%E6%95%B0%E7%BB%84%E4%B8%AD%E7%9A%84%E6%9F%A5%E6%89%BE.cpp)`NowCoder` `二维查找`
