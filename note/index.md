@@ -1,5 +1,42 @@
 # 学习笔记
 
+## python
+
+>该python笔记从ThinkPython2书中记录和总结而来, 部分代码参考了廖雪峰的python教程
+
+1. [start](python/1.start.html)
+2. [basic](python/2.basics.html)
+3. [function](python/3.function.html)
+4. [list](python/4.list.html)
+5. [dict](python/5.dict.html)
+6. [class](python/6.class.html)
+7. [class2](python/7.class2.html)
+8. [any,all,generator](python/8.any,all,generator.html)
+9. [collections](python/9.collections.html)
+10. [enum](python/10.enum.html)
+11. [unittest](python/11.unittest.html)
+
+## numpy
+
+>该笔记从菜鸟教程网站记录而来, 只是为了练习和备忘, 不具有学习和参考价值.
+
+1. [ndarray](numpy/1.ndarray.html)
+2. [dtype](numpy/2.dtype.html)
+3. [ndarray的属性](numpy/3.ndarray的属性.html)
+4. [create_ndarray](numpy/4.create_ndarray.html)
+5. [index_slice](numpy/5.index_slice.html)
+6. [broadcost](numpy/6.broadcost.html)
+7. [nditer](numpy/7.nditer.html)
+8. [数组操作](numpy/8.数组操作.html)
+9. [统计函数](numpy/9.统计函数.html)
+
+## matplotlib
+
+>该笔记从菜鸟教程网站和matplotlib官网记录而来, 只是为了练习和备忘, 不具有学习和参考价值.
+
+1. [cai_niao](matplotlib/cai_niao.html)
+2. [guan_wang](matplotlib/guan_wang.html)
+
 ## word
 
 >本笔记摘录于《这样学word...》系列教材，是大一进校之前学习office的时候记下的笔记，该笔记主要记录了某些功能的快捷键，很多常用和重要功能的用法,以及这些功能菜单所在的位置等。一些有样式的功能被用在了笔记文字上以使功能更直观，但在另存为HTML文件后在浏览器里的样式与在word软件里面显示的不一样，所以我也把所有文档转换了一份PDF以呈现原本样式，可以用电脑上的浏览器查看，手机上好像看不了。由于内容比较多，不可能一次都记住，所以我把它放到github上来以供随时查阅，也可以供网友借鉴学习。
