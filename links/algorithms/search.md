@@ -18,6 +18,8 @@
 
 8. [2553.N皇后问题](https://github.com/faxinwang/OJ_HDU/blob/master/search/2553.N皇后问题.cpp)`HDU` `位运算`
 
+9. [1455.Sticks](https://github.com/faxinwang/OJ_HDU/blob/master/search/1455.Sticks.cpp) `HDU` `剪枝优化` `组合问题`
+
 ## BFS
 
 1. [20.吝啬的国度](https://github.com/faxinwang/OJ_NYOJ/blob/master/search/20.吝啬的国度.cpp)`NYOJ`
@@ -35,6 +37,7 @@
 7. [A.PUBG](https://github.com/faxinwang/OJ_NowCoder/tree/master/contest/118/A.PUBG.cpp)`NowCoder`
 
 8. [F.扫雷](https://github.com/faxinwang/OJ_NowCoder/tree/master/contest/118/F.扫雷.cpp)`NowCoder`
+
 
 ## BinarySearch
 
@@ -69,6 +72,7 @@
 15. [3061.Subsequence(2)](https://github.com/faxinwang/OJ_POJ/blob/master/others/3061.Subsequence(2).cpp)`POJ` `前缀和`
 
 16. [_2109_Power_of_Cryptograph](https://github.com/faxinwang/OJ_POJ/blob/master/math/_2109_Power_of_Cryptography.java)`POJ` `二分查找+高精度`
+
 
 ## others
 

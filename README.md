@@ -15,6 +15,8 @@
 
 * [数学](links/algorithms/math.html)
 
+* [分治法](links/algorithms/dc.html)
+
 * [其他](links/algorithms/others.html)
 
 ## [数据结构](https://github.com/faxinwang/DataStructure)
