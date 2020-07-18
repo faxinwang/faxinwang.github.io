@@ -15,6 +15,7 @@ http://web.ift.uib.no/Teori/KURS/WRK/TeX/symALL.html
 9. $\Gamma \Lambda \Sigma \Psi$
 10. $\Delta  \Xi  \Upsilon  \Omega$
 11. $\Theta    \Pi   \Phi$
+12. $\infty$
 
 ## Binary Operation Symbols
 
@@ -87,6 +88,15 @@ $\not= \not> \notin \not\subset$
 4. $\overbrace{abc} \underbrace{abc}$
 5. $\sqrt{abc} \sqrt[n]{abc}$
 6. $f' \frac{abc}{xyz}$
+
+## others
+
+1. $space\qquad space$   两个m的宽度
+2. $space\quad space$   一个m的宽度
+3. $space\ space$  1/3m宽度
+4. $space\; space$  2/7m宽度
+5. $space\, space$  1/6m宽度
+6. $\lim\limits_{x\rightarrow x_0}f(x)$
 
 ## 大括号用法
 
